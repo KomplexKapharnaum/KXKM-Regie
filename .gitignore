@@ -1,0 +1,22 @@
+_VID/
+.DS_Store
+
+# Exclude OS trash
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+#MEDIA Files
+*.avi
+*.mp3
+*.mp4
+*.m4v
+*.mov
+*.wav
+*.srt
+*.wav
+*.aif
