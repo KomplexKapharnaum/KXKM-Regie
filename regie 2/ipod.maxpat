@@ -5,10 +5,10 @@
 			"major" : 6,
 			"minor" : 1,
 			"revision" : 10,
-			"architecture" : "x86"
+			"architecture" : "x64"
 		}
 ,
-		"rect" : [ 330.0, 44.0, 1590.0, 960.0 ],
+		"rect" : [ 0.0, 45.0, 1590.0, 960.0 ],
 		"bgcolor" : [ 0.67, 0.7, 0.72, 1.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
@@ -474,7 +474,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1354.0, 572.0, 150.0, 18.0 ],
+					"patching_rect" : [ 1354.0, 617.0, 150.0, 18.0 ],
 					"text" : "LINE 9 (see args)"
 				}
 
@@ -487,7 +487,7 @@
 					"name" : "ipod_line.maxpat",
 					"numinlets" : 0,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1188.0, 567.0, 158.0, 29.0 ],
+					"patching_rect" : [ 1188.0, 612.0, 158.0, 29.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 5.0, 451.0, 158.0, 32.0 ]
 				}
@@ -502,7 +502,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1354.0, 532.0, 150.0, 18.0 ],
+					"patching_rect" : [ 1354.0, 577.0, 150.0, 18.0 ],
 					"text" : "LINE 8 (see args)"
 				}
 
@@ -515,7 +515,7 @@
 					"name" : "ipod_line.maxpat",
 					"numinlets" : 0,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1188.0, 528.0, 158.0, 29.0 ],
+					"patching_rect" : [ 1188.0, 573.0, 158.0, 29.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 5.0, 420.0, 158.0, 32.0 ]
 				}
@@ -530,7 +530,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1354.0, 493.0, 150.0, 18.0 ],
+					"patching_rect" : [ 1354.0, 538.0, 150.0, 18.0 ],
 					"text" : "LINE 7 (see args)"
 				}
 
@@ -543,7 +543,7 @@
 					"name" : "ipod_line.maxpat",
 					"numinlets" : 0,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1188.0, 489.0, 158.0, 29.0 ],
+					"patching_rect" : [ 1188.0, 534.0, 158.0, 29.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 5.0, 389.0, 158.0, 32.0 ]
 				}
@@ -558,7 +558,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1354.0, 455.0, 150.0, 18.0 ],
+					"patching_rect" : [ 1354.0, 500.0, 150.0, 18.0 ],
 					"text" : "LINE 6 (see args)"
 				}
 
@@ -571,7 +571,7 @@
 					"name" : "ipod_line.maxpat",
 					"numinlets" : 0,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1188.0, 451.0, 158.0, 29.0 ],
+					"patching_rect" : [ 1188.0, 496.0, 158.0, 29.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 5.0, 358.0, 158.0, 32.0 ]
 				}
@@ -586,7 +586,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1354.0, 415.0, 150.0, 18.0 ],
+					"patching_rect" : [ 1354.0, 460.0, 150.0, 18.0 ],
 					"text" : "LINE 5 (see args)"
 				}
 
@@ -599,7 +599,7 @@
 					"name" : "ipod_line.maxpat",
 					"numinlets" : 0,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1188.0, 411.0, 158.0, 29.0 ],
+					"patching_rect" : [ 1188.0, 456.0, 158.0, 29.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 5.0, 327.0, 158.0, 32.0 ]
 				}
@@ -614,7 +614,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1353.0, 375.0, 150.0, 18.0 ],
+					"patching_rect" : [ 1353.0, 420.0, 150.0, 18.0 ],
 					"text" : "LINE 4 (see args)"
 				}
 
@@ -627,7 +627,7 @@
 					"name" : "ipod_line.maxpat",
 					"numinlets" : 0,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1187.0, 371.0, 158.0, 29.0 ],
+					"patching_rect" : [ 1187.0, 416.0, 158.0, 29.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 5.0, 296.0, 158.0, 32.0 ]
 				}
@@ -642,7 +642,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1353.0, 335.0, 150.0, 18.0 ],
+					"patching_rect" : [ 1353.0, 380.0, 150.0, 18.0 ],
 					"text" : "LINE 3 (see args)"
 				}
 
@@ -655,7 +655,7 @@
 					"name" : "ipod_line.maxpat",
 					"numinlets" : 0,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1187.0, 331.0, 158.0, 29.0 ],
+					"patching_rect" : [ 1187.0, 376.0, 158.0, 29.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 5.0, 265.0, 158.0, 32.0 ]
 				}
@@ -670,7 +670,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1353.0, 296.0, 150.0, 18.0 ],
+					"patching_rect" : [ 1353.0, 341.0, 150.0, 18.0 ],
 					"text" : "LINE 2 (see args)"
 				}
 
@@ -683,7 +683,7 @@
 					"name" : "ipod_line.maxpat",
 					"numinlets" : 0,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1187.0, 292.0, 158.0, 29.0 ],
+					"patching_rect" : [ 1187.0, 337.0, 158.0, 29.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 5.0, 234.0, 158.0, 32.0 ]
 				}
@@ -780,7 +780,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1353.0, 258.0, 150.0, 18.0 ],
+					"patching_rect" : [ 1353.0, 303.0, 150.0, 18.0 ],
 					"text" : "LINE 1 (see args)"
 				}
 
@@ -793,7 +793,7 @@
 					"name" : "ipod_line.maxpat",
 					"numinlets" : 0,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1187.0, 254.0, 158.0, 29.0 ],
+					"patching_rect" : [ 1187.0, 299.0, 158.0, 29.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 5.0, 203.0, 158.0, 32.0 ]
 				}
@@ -1035,7 +1035,7 @@
 							"major" : 6,
 							"minor" : 1,
 							"revision" : 10,
-							"architecture" : "x86"
+							"architecture" : "x64"
 						}
 ,
 						"rect" : [ 486.0, 208.0, 825.0, 626.0 ],
@@ -2416,7 +2416,7 @@
 							"major" : 6,
 							"minor" : 1,
 							"revision" : 10,
-							"architecture" : "x86"
+							"architecture" : "x64"
 						}
 ,
 						"rect" : [ 143.0, 300.0, 793.0, 366.0 ],
@@ -3065,7 +3065,7 @@
 							"major" : 6,
 							"minor" : 1,
 							"revision" : 10,
-							"architecture" : "x86"
+							"architecture" : "x64"
 						}
 ,
 						"rect" : [ 436.0, 154.0, 1097.0, 825.0 ],
@@ -4960,7 +4960,7 @@
 							"major" : 6,
 							"minor" : 1,
 							"revision" : 10,
-							"architecture" : "x86"
+							"architecture" : "x64"
 						}
 ,
 						"rect" : [ 555.0, 258.0, 885.0, 625.0 ],
@@ -5609,7 +5609,7 @@
 							"major" : 6,
 							"minor" : 1,
 							"revision" : 10,
-							"architecture" : "x86"
+							"architecture" : "x64"
 						}
 ,
 						"rect" : [ 688.0, 331.0, 752.0, 559.0 ],
@@ -6003,7 +6003,7 @@
 											"major" : 6,
 											"minor" : 1,
 											"revision" : 10,
-											"architecture" : "x86"
+											"architecture" : "x64"
 										}
 ,
 										"rect" : [ 25.0, 69.0, 640.0, 480.0 ],
@@ -7174,7 +7174,7 @@
 							"major" : 6,
 							"minor" : 1,
 							"revision" : 10,
-							"architecture" : "x86"
+							"architecture" : "x64"
 						}
 ,
 						"rect" : [ 0.0, 59.0, 964.0, 791.0 ],
@@ -7969,7 +7969,7 @@
 							"major" : 6,
 							"minor" : 1,
 							"revision" : 10,
-							"architecture" : "x86"
+							"architecture" : "x64"
 						}
 ,
 						"rect" : [ 626.0, 293.0, 640.0, 480.0 ],
@@ -8561,7 +8561,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1377.0, 226.0, 88.0, 20.0 ],
+					"patching_rect" : [ 1377.0, 271.0, 88.0, 20.0 ],
 					"text" : "SEQUENCER"
 				}
 
@@ -9745,7 +9745,7 @@
 							"major" : 6,
 							"minor" : 1,
 							"revision" : 10,
-							"architecture" : "x86"
+							"architecture" : "x64"
 						}
 ,
 						"rect" : [ 330.0, 124.0, 640.0, 480.0 ],
@@ -10085,7 +10085,7 @@
 							"major" : 6,
 							"minor" : 1,
 							"revision" : 10,
-							"architecture" : "x86"
+							"architecture" : "x64"
 						}
 ,
 						"rect" : [ 131.0, 317.0, 1035.0, 790.0 ],
@@ -13561,45 +13561,45 @@
 			}
  ],
 		"parameters" : 		{
-			"obj-99::obj-193" : [ "live.button[4]", "live.button[1]", 0 ],
-			"obj-104::obj-194" : [ "live.button[5]", "live.button[1]", 0 ],
-			"obj-109::obj-194" : [ "live.button[7]", "live.button[1]", 0 ],
-			"obj-160" : [ "live.text[7]", "FILTER", 0 ],
-			"obj-117::obj-194" : [ "live.button[9]", "live.button[1]", 0 ],
-			"obj-147::obj-194" : [ "live.button[15]", "live.button[1]", 0 ],
-			"obj-104::obj-193" : [ "live.button[6]", "live.button[1]", 0 ],
-			"obj-52" : [ "live.toggle[1]", "live.toggle", 0 ],
-			"obj-217" : [ "live.toggle[3]", "live.toggle", 0 ],
-			"obj-99::obj-194" : [ "live.button[3]", "live.button[1]", 0 ],
-			"obj-274::obj-193" : [ "live.button[1]", "live.button[1]", 0 ],
+			"obj-143::obj-194" : [ "live.button[17]", "live.button[1]", 0 ],
+			"obj-256" : [ "live.text[5]", "FILTER", 0 ],
+			"obj-49" : [ "live.toggle[2]", "live.toggle", 0 ],
+			"obj-274::obj-194" : [ "live.button[2]", "live.button[1]", 0 ],
 			"obj-117::obj-193" : [ "live.button[10]", "live.button[1]", 0 ],
-			"obj-250" : [ "live.button[19]", "live.button[1]", 0 ],
+			"obj-23" : [ "live.text[3]", "FILTER", 0 ],
+			"obj-147::obj-194" : [ "live.button[15]", "live.button[1]", 0 ],
+			"obj-195" : [ "live.text[8]", "FILTER", 0 ],
+			"obj-235" : [ "live.text[6]", "FILTER", 0 ],
+			"obj-217" : [ "live.toggle[3]", "live.toggle", 0 ],
+			"obj-109::obj-194" : [ "live.button[8]", "live.button[1]", 0 ],
 			"obj-86" : [ "live.button", "live.button", 0 ],
+			"obj-149::obj-194" : [ "live.button[14]", "live.button[1]", 0 ],
+			"obj-99::obj-193" : [ "live.button[4]", "live.button[1]", 0 ],
+			"obj-264" : [ "live.toggle[4]", "live.toggle", 0 ],
+			"obj-104::obj-193" : [ "live.button[5]", "live.button[1]", 0 ],
 			"obj-143::obj-193" : [ "live.button[18]", "live.button[1]", 0 ],
+			"obj-109::obj-193" : [ "live.button[7]", "live.button[1]", 0 ],
+			"obj-52" : [ "live.toggle[1]", "live.toggle", 0 ],
+			"obj-151::obj-193" : [ "live.button[11]", "live.button[1]", 0 ],
+			"obj-274::obj-193" : [ "live.button[1]", "live.button[1]", 0 ],
+			"obj-151::obj-194" : [ "live.button[12]", "live.button[1]", 0 ],
+			"obj-18" : [ "live.text[2]", "FILTER", 0 ],
+			"obj-147::obj-193" : [ "live.button[16]", "live.button[1]", 0 ],
+			"obj-104::obj-194" : [ "live.button[6]", "live.button[1]", 0 ],
+			"obj-117::obj-194" : [ "live.button[9]", "live.button[1]", 0 ],
+			"obj-250" : [ "live.button[19]", "live.button[1]", 0 ],
 			"obj-216" : [ "live.text[4]", "live.text[3]", 0 ],
 			"obj-149::obj-193" : [ "live.button[13]", "live.button[1]", 0 ],
-			"obj-256" : [ "live.text[5]", "FILTER", 0 ],
-			"obj-151::obj-194" : [ "live.button[11]", "live.button[1]", 0 ],
-			"obj-147::obj-193" : [ "live.button[16]", "live.button[1]", 0 ],
-			"obj-18" : [ "live.text[2]", "FILTER", 0 ],
-			"obj-29" : [ "live.toggle", "live.toggle", 0 ],
-			"obj-235" : [ "live.text[6]", "FILTER", 0 ],
-			"obj-151::obj-193" : [ "live.button[12]", "live.button[1]", 0 ],
-			"obj-23" : [ "live.text[3]", "FILTER", 0 ],
-			"obj-274::obj-194" : [ "live.button[2]", "live.button[1]", 0 ],
-			"obj-143::obj-194" : [ "live.button[17]", "live.button[1]", 0 ],
 			"obj-251" : [ "live.button[20]", "live.button[1]", 0 ],
-			"obj-195" : [ "live.text[8]", "FILTER", 0 ],
-			"obj-264" : [ "live.toggle[4]", "live.toggle", 0 ],
+			"obj-29" : [ "live.toggle", "live.toggle", 0 ],
 			"obj-187" : [ "live.numbox", "live.numbox", 0 ],
-			"obj-109::obj-193" : [ "live.button[8]", "live.button[1]", 0 ],
-			"obj-149::obj-194" : [ "live.button[14]", "live.button[1]", 0 ],
-			"obj-49" : [ "live.toggle[2]", "live.toggle", 0 ]
+			"obj-99::obj-194" : [ "live.button[3]", "live.button[1]", 0 ],
+			"obj-160" : [ "live.text[7]", "FILTER", 0 ]
 		}
 ,
 		"dependency_cache" : [ 			{
 				"name" : "ipod_line.maxpat",
-				"bootpath" : "/Users/hemisphere/Desktop/HMSPHR WORK/Git/KXKM-Regie/regie 2",
+				"bootpath" : "/Users/maclaren/Desktop/Work/KXKM-Regie/regie 2",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
