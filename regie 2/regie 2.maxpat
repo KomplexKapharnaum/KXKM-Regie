@@ -7170,7 +7170,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 607.0, 411.0, 205.0, 18.0 ],
-									"text" : "/regie/memlabel3B 4Ipod"
+									"text" : "/regie/memlabel2B handbrake"
 								}
 
 							}
@@ -10145,13 +10145,13 @@
 									"fontname" : "Arial",
 									"fontsize" : 10.0,
 									"id" : "obj-12",
-									"linecount" : 2,
+									"linecount" : 3,
 									"maxclass" : "message",
 									"numinlets" : 2,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 314.0, 238.0, 56.0, 50.0 ],
-									"text" : "testperf_4Ipod_03"
+									"text" : "testperf_handbrake_repas"
 								}
 
 							}
@@ -12320,13 +12320,13 @@
 													"fontname" : "Arial",
 													"fontsize" : 11.0,
 													"id" : "obj-32",
-													"linecount" : 2,
+													"linecount" : 3,
 													"maxclass" : "message",
 													"numinlets" : 2,
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
-													"patching_rect" : [ 337.0, 573.0, 50.0, 29.0 ],
-													"text" : "testperf_4Ipod"
+													"patching_rect" : [ 337.0, 573.0, 50.0, 41.0 ],
+													"text" : "\" TESTPERF\""
 												}
 
 											}
