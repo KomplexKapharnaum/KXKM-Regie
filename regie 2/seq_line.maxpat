@@ -501,7 +501,7 @@
 					"clickedimage" : 1,
 					"id" : "obj-111",
 					"maxclass" : "pictctrl",
-					"name" : "savebutton.pct",
+					"name" : "savebutton.png",
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "int" ],
@@ -1003,7 +1003,14 @@
 			"obj-176" : [ "live.button[203]", "live.button[36]", 0 ]
 		}
 ,
-		"dependency_cache" : [  ]
+		"dependency_cache" : [ 			{
+				"name" : "savebutton.png",
+				"bootpath" : "/Users/maclaren/Desktop/work/KXKM-Regie/regie 2/_style",
+				"patcherrelativepath" : "./_style",
+				"type" : "PNG ",
+				"implicit" : 1
+			}
+ ]
 	}
 
 }
