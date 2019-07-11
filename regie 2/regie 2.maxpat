@@ -36,7 +36,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1362.0, 145.0, 82.0, 18.0 ],
+					"patching_rect" : [ 1349.0, 149.0, 82.0, 18.0 ],
 					"text" : "s broadcastESP"
 				}
 
@@ -89,7 +89,7 @@
 							"architecture" : "x86"
 						}
 ,
-						"rect" : [ 329.0, 214.0, 1274.0, 604.0 ],
+						"rect" : [ 256.0, 394.0, 910.0, 247.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 1,
 						"default_fontsize" : 12.0,
@@ -132,7 +132,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 812.0, 80.0, 50.0, 17.0 ],
-									"text" : "8"
+									"text" : "0"
 								}
 
 							}
@@ -255,7 +255,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 654.0, 80.0, 50.0, 17.0 ],
-									"text" : "0"
+									"text" : "255"
 								}
 
 							}
@@ -346,7 +346,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 402.0, 253.0, 50.0, 17.0 ],
-									"text" : "50"
+									"text" : "121"
 								}
 
 							}
@@ -484,7 +484,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 323.0, 253.0, 50.0, 17.0 ],
-									"text" : "3"
+									"text" : "1"
 								}
 
 							}
@@ -955,7 +955,6 @@
 										"description" : "",
 										"digest" : "",
 										"tags" : "",
-										"visible" : 1,
 										"boxes" : [ 											{
 												"box" : 												{
 													"fontname" : "Arial",
@@ -1634,11 +1633,11 @@
 									"presentation_rect" : [ 32.0, 123.0, 129.166626, 39.0 ],
 									"preset_data" : [ 										{
 											"number" : 1,
-											"data" : [ 5, "obj-18", "number", "int", 0, 5, "obj-13", "number", "int", 255, 5, "obj-8", "number", "int", 255, 5, "obj-77", "number", "int", 255, 5, "obj-33", "number", "int", 255, 5, "obj-40", "number", "int", 50, 5, "obj-56", "number", "int", 0, 5, "obj-36", "number", "int", 3, 5, "obj-58", "number", "int", 255, 5, "obj-31", "number", "int", 0, 5, "obj-27", "number", "int", 5000 ]
+											"data" : [ 5, "obj-18", "number", "int", 0, 5, "obj-13", "number", "int", 255, 5, "obj-8", "number", "int", 255, 5, "obj-77", "number", "int", 255, 5, "obj-33", "number", "int", 255, 5, "obj-40", "number", "int", 121, 5, "obj-56", "number", "int", 70, 5, "obj-36", "number", "int", 1, 5, "obj-58", "number", "int", 255, 5, "obj-31", "number", "int", 0, 5, "obj-27", "number", "int", 5000 ]
 										}
 , 										{
 											"number" : 2,
-											"data" : [ 5, "obj-18", "number", "int", 0, 5, "obj-13", "number", "int", 255, 5, "obj-8", "number", "int", 255, 5, "obj-77", "number", "int", 255, 5, "obj-33", "number", "int", 255, 5, "obj-40", "number", "int", 50, 5, "obj-56", "number", "int", 0, 5, "obj-36", "number", "int", 3, 5, "obj-58", "number", "int", 255, 5, "obj-31", "number", "int", 0, 5, "obj-27", "number", "int", 2000 ]
+											"data" : [ 5, "obj-18", "number", "int", 0, 5, "obj-13", "number", "int", 255, 5, "obj-8", "number", "int", 255, 5, "obj-77", "number", "int", 255, 5, "obj-33", "number", "int", 255, 5, "obj-40", "number", "int", 103, 5, "obj-56", "number", "int", 171, 5, "obj-36", "number", "int", 1, 5, "obj-58", "number", "int", 255, 5, "obj-31", "number", "int", 16, 5, "obj-27", "number", "int", 5000 ]
 										}
 , 										{
 											"number" : 3,
@@ -1654,7 +1653,7 @@
 										}
 , 										{
 											"number" : 6,
-											"data" : [ 5, "obj-18", "number", "int", 0, 5, "obj-13", "number", "int", 255, 5, "obj-8", "number", "int", 255, 5, "obj-77", "number", "int", 255, 5, "obj-33", "number", "int", 255, 5, "obj-40", "number", "int", 50, 5, "obj-56", "number", "int", 0, 5, "obj-36", "number", "int", 3, 5, "obj-58", "number", "int", 255, 5, "obj-31", "number", "int", 0, 5, "obj-27", "number", "int", 100 ]
+											"data" : [ 5, "obj-18", "number", "int", 0, 5, "obj-13", "number", "int", 255, 5, "obj-8", "number", "int", 255, 5, "obj-77", "number", "int", 255, 5, "obj-33", "number", "int", 255, 5, "obj-40", "number", "int", 5, 5, "obj-56", "number", "int", 0, 5, "obj-36", "number", "int", 3, 5, "obj-58", "number", "int", 255, 5, "obj-31", "number", "int", 0, 5, "obj-27", "number", "int", 100 ]
 										}
 , 										{
 											"number" : 7,
@@ -1662,7 +1661,7 @@
 										}
 , 										{
 											"number" : 8,
-											"data" : [ 5, "obj-18", "number", "int", 0, 5, "obj-13", "number", "int", 255, 5, "obj-8", "number", "int", 255, 5, "obj-77", "number", "int", 255, 5, "obj-33", "number", "int", 255, 5, "obj-40", "number", "int", 50, 5, "obj-56", "number", "int", 0, 5, "obj-36", "number", "int", 3, 5, "obj-58", "number", "int", 255, 5, "obj-31", "number", "int", 0, 5, "obj-27", "number", "int", 20 ]
+											"data" : [ 5, "obj-18", "number", "int", 45, 5, "obj-13", "number", "int", 255, 5, "obj-8", "number", "int", 0, 5, "obj-77", "number", "int", 51, 5, "obj-33", "number", "int", 255, 5, "obj-40", "number", "int", 50, 5, "obj-56", "number", "int", 213, 5, "obj-36", "number", "int", 3, 5, "obj-58", "number", "int", 255, 5, "obj-31", "number", "int", 0, 5, "obj-27", "number", "int", 9056 ]
 										}
 , 										{
 											"number" : 9,
@@ -1695,7 +1694,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 568.0, 80.0, 50.0, 17.0 ],
-									"text" : "0"
+									"text" : "255"
 								}
 
 							}
@@ -2193,7 +2192,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 243.0, 80.0, 50.0, 17.0 ],
-									"text" : "1000"
+									"text" : "5000"
 								}
 
 							}
@@ -2432,7 +2431,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 402.0, 80.0, 50.0, 17.0 ],
-									"text" : "50"
+									"text" : "70"
 								}
 
 							}
@@ -3132,7 +3131,7 @@
 							"architecture" : "x86"
 						}
 ,
-						"rect" : [ 102.0, 265.0, 845.0, 465.0 ],
+						"rect" : [ 634.0, 212.0, 845.0, 465.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 12.0,
@@ -5179,7 +5178,7 @@
 											"architecture" : "x86"
 										}
 ,
-										"rect" : [ 209.0, 282.0, 819.0, 347.0 ],
+										"rect" : [ 544.0, 574.0, 819.0, 347.0 ],
 										"bglocked" : 0,
 										"openinpresentation" : 0,
 										"default_fontsize" : 11.0,
@@ -5248,8 +5247,8 @@
 													"maxclass" : "newobj",
 													"numinlets" : 1,
 													"numoutlets" : 0,
-													"patching_rect" : [ 556.0, 107.0, 166.0, 19.0 ],
-													"text" : "udpsend 255.255.255.255 9000"
+													"patching_rect" : [ 556.0, 107.0, 141.0, 19.0 ],
+													"text" : "udpsend 2.0.255.255 9000"
 												}
 
 											}
@@ -6280,7 +6279,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 1361.0, 72.0, 85.0, 16.0 ],
-					"text" : "2.0.2.255"
+					"text" : "2.0.0.255"
 				}
 
 			}
@@ -6326,7 +6325,7 @@
 					"patching_rect" : [ 1287.0, 81.0, 68.0, 16.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 370.0, 51.0, 75.0, 16.0 ],
-					"text" : "2.0.2.191"
+					"text" : "2.0.0.100"
 				}
 
 			}
@@ -10325,7 +10324,7 @@
 					"patching_rect" : [ 122.5, 796.0, 70.0, 13.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 85.5, 297.0, 141.0, 18.0 ],
-					"size" : 2.0
+					"size" : 6274.0
 				}
 
 			}
@@ -10759,7 +10758,7 @@
 					"fontname" : "Arial",
 					"fontsize" : 10.0,
 					"id" : "obj-153",
-					"items" : [ "all", ",", "NIMBY", ",", "INTRO", ",", "testperf_05_10kb_sansson", ",", "testperf_06_fichierdupliquer", ",", "testperf_06_memefichier", ",", "testperf_mov1fps_8kb", ",", "testperf_1fps_plsr", ",", "ESSAI", ",", "testperf_4Ipod", ",", "testperf_Handbrake", ",", "testperf_handbrake", ",", " TESTPERF" ],
+					"items" : [ "all", ",", "test", ",", "INTRO", ",", "TITRAGE", ",", "BALCON", ",", "PORTRAITS", ",", "AFTER" ],
 					"maxclass" : "umenu",
 					"numinlets" : 1,
 					"numoutlets" : 3,
@@ -11338,13 +11337,13 @@
 									"fontname" : "Arial",
 									"fontsize" : 11.595187,
 									"id" : "obj-17",
-									"linecount" : 6,
+									"linecount" : 3,
 									"maxclass" : "message",
 									"numinlets" : 2,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 1239.0, 343.0, 45.0, 84.0 ],
-									"text" : "\" TESTPERF_Handbrake06\""
+									"text" : "\"AFTER_FRESK \""
 								}
 
 							}
@@ -11401,7 +11400,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 314.0, 238.0, 56.0, 50.0 ],
-									"text" : "NIMBY_DEBORDEMENT"
+									"text" : "\"AFTER_FRESKvide3 \""
 								}
 
 							}
@@ -12903,13 +12902,13 @@
 									"fontname" : "Arial",
 									"fontsize" : 10.0,
 									"id" : "obj-108",
-									"linecount" : 11,
+									"linecount" : 3,
 									"maxclass" : "message",
 									"numinlets" : 2,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 483.0, 564.0, 515.0, 131.0 ],
-									"text" : "store \" TESTPERF_Handbrake06\" 09RElance_SECHEURS04_BAC5.mov 09RElance_SECHEURS02_caddie.mov 09RElance_PlastikGirl_Bac04.mov 09RElance_PlastikGirl_Bac03.mov 09RElance_SECHEURS03_SNCF.mov 09RElance_SECHEURS04_BAC5.mov 09RElance_SECHEURS02_caddie.mov 00PROLOGUE_1biffinV2.mov 00PROLOGUE_2squatV2.mov 05NIMBY_periph_V6.mp4 00PROLOGUE_1biffinV2.mov 09RElance_SECHEURS03_SNCF.mov 00PROLOGUE_JeanJacques_INTRO.mov 00PROLOGUE_titrage_balai.mov 09RElance_SECHEURS03_SNCF.mov 00PROLOGUE_JeanJacques_MakeOf.mov 00PROLOGUE_4appartV2.mov 00PROLOGUE_7glaneurs.mov 05NIMBY_periph_V5.mp4 00PROLOGUE_2squatV2.mov 09RElance_SECHEURS01_sac3.mov 00PROLOGUE_1biffinV2.mov 09RElance_PlastikGirl_sac02.mov 09RElance_SECHEURS02_caddie.mov 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+									"text" : "store \"AFTER_FRESK \" 09AFTER_V2_1.mov 09AFTER_V2_2.mov 09AFTER_V2_3.mov 09AFTER_V2_4.mov 09AFTER_V2_5.mov * * * * * * * * * * * * * * * * * * * 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
 								}
 
 							}
@@ -13364,13 +13363,12 @@
 									"fontname" : "Arial",
 									"fontsize" : 10.0,
 									"id" : "obj-127",
-									"linecount" : 2,
 									"maxclass" : "message",
 									"numinlets" : 2,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 555.0, 161.0, 120.0, 27.0 ],
-									"text" : "TESTPERF_Handbrake07"
+									"text" : "\"AFTER_FRESK \""
 								}
 
 							}
@@ -13575,7 +13573,7 @@
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 337.0, 573.0, 50.0, 41.0 ],
-													"text" : "NIMBY"
+													"text" : "AFTER"
 												}
 
 											}
@@ -15036,106 +15034,114 @@
 , 							{
 								"box" : 								{
 									"coll_data" : 									{
-										"count" : 25,
+										"count" : 27,
 										"data" : [ 											{
-												"key" : "NIMBY_paq",
-												"value" : [ "05NIMBY_B1.mp4", "05NIMBY_B2.mp4", "05NIMBY_B3.mp4", "05NIMBY_B4.mp4", "05NIMBY_B5.mp4", "05NIMBY_B6.mp4", "05NIMBY_B7.mp4", "05NIMBY_B8.mp4", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ]
+												"key" : " test_Ablanc",
+												"value" : [ "00Wait_BlancGrumo1.mov", "00Wait_BlancGrumo2.mov", "00Wait_BlancGrumo3.mov", "00Wait_BlancGrumo4.mov", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ]
 											}
 , 											{
-												"key" : "NIMBY_RELANCE",
-												"value" : [ "07RELANCE_00SAC_01.mov", "07RELANCE_00SAC_02.mov", "07RELANCE_00BAC_3.mov", "07RELANCE_00BAC_4.mov", "07RELANCE_00BAC_5.mov", "*", "07RELANCE_00KADI.mov", "07RELANCE_00SNCF.mov", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ]
+												"key" : " test_Bperso",
+												"value" : [ "07Perso_Bernadette-2.mov", "07Perso_Oumaima-2.mov", "07Perso_Pascale.mov", "07Perso_Regards.mov", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ]
 											}
 , 											{
-												"key" : "INTRO_JJ",
-												"value" : [ "*", "*", "*", "*", "*", "00PROLOGUE_JeanJacques_MakeOf.mov", "00PROLOGUE_JeanJacques_INTRO.mov", "*", "*", "*", "s", "s", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ]
+												"key" : " INTRO_GEOLOC",
+												"value" : [ "000VALISE_00_POINTEUR.mov", "000VALISE_00_POINTEUR.mov", "000VALISE_00_POINTEUR.mov", "000VALISE_00_POINTEUR.mov", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ]
 											}
 , 											{
-												"key" : "INTRO_prologue",
-												"value" : [ "00PROLOGUE_2squatV2.mov", "00PROLOGUE_3sdfV2.mov", "00PROLOGUE_5nimbyV2.mov", "*", "00PROLOGUE_1biffinV2.mov", "00PROLOGUE_3sdfV2.mov", "00PROLOGUE_5nimbyV2.mov", "00PROLOGUE_2squatV2.mov", "00PROLOGUE_4appartV2.mov", "*", "s", "s", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ]
+												"key" : "INTRO_TXTgoogle",
+												"value" : [ "*", "*", "*", "*", "000INTRO_Google_EDIT_1.mov", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ]
 											}
 , 											{
-												"key" : "NIMBY_CAMPEMENT",
-												"value" : [ "10CAMPEMENT_Momes_Duplas.mp4", "10CAMPEMENT_femme_Daniel_oeuf.mp4", "10CAMPEMENT_Poulet_Jiji.mp4", "10CAMPEMENT_jeanjack_Pause.mp4", "10CAMPEMENT_Bobbie_enfant_danse_02.mp4", "10CAMPEMENT_tente_toilette.mp4", "10CAMPEMENT_Souleyman_PMU.mp4", "10CAMPEMENT_annemarie_dwich.mp4", "10CAMPEMENT_poelle_oignon.mp4", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ]
+												"key" : "INTRO_3",
+												"value" : [ "*", "*", "*", "*", "000INTRO_PLAN_QUARTIER.mov", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ]
 											}
 , 											{
-												"key" : "NIMBY_DEBORDEMENT",
-												"value" : [ "09DEBORDEMENT_01.mp4", "09DEBORDEMENT_02.mp4", "09DEBORDEMENT_03.mp4", "09DEBORDEMENT_04.mp4", "09DEBORDEMENT_05.mp4", "09DEBORDEMENT_06.mp4", "09DEBORDEMENT_07.mp4", "09DEBORDEMENT_08.mp4", "10CAMPEMENT_poelle_oignon.mp4", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ]
+												"key" : "INTRO_4 ",
+												"value" : [ "*", "*", "*", "*", "000VALISE_00_POINTEUR.mov", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ]
 											}
 , 											{
-												"key" : "INTRO_PERIPH",
-												"value" : [ "05NIMBY_periph_V6.mp4", "05NIMBY_periph_V7.mp4", "05NIMBY_periph_V1.mp4", "05NIMBY_periph_V2.mp4", "05NIMBY_periph_V3.mp4", "05NIMBY_periph_V4.mp4", "05NIMBY_periph_V5.mp4", "05NIMBY_periph_V4.mp4", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ]
+												"key" : "INTRO_5 ",
+												"value" : [ "*", "*", "*", "*", "000INTRO_NOTICE.mov", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ]
 											}
 , 											{
-												"key" : "INTRO_RELANCE",
-												"value" : [ "*", "09RElance_PlastikGirl_sac02.mov", "09RElance_PlastikGirl_Bac03.mov", "09RElance_PlastikGirl_Bac04.mov", "09RElance_SECHEURS04_BAC5.mov", "09RElance_SECHEURS01_sac3.mov", "09RElance_SECHEURS02_caddie.mov", "09RElance_SECHEURS03_SNCF.mov", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ]
+												"key" : "TITRAGE_A ",
+												"value" : [ "000VALISE_07ALLEE01.mov", "000VALISE_07ALLEE02.mov", "000VALISE_07ALLEE03.mov", "000VALISE_07ALLEE04.mov", "000VALISE_07ALLEE05.mov", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ]
 											}
 , 											{
-												"key" : "testperf_05_10kb_sansson_5fps.mov",
-												"value" : [ "09RElance_SECHEURS02_caddie_5fps_15Kb_noAudio.mov", "09RElance_SECHEURS02_caddie_10kb.mov", "09RElance_SECHEURS02_caddie_20kb_MP4_15fps.mp4", "09RElance_SECHEURS02_caddie_20kb15fps.mov", "09RElance_SECHEURS02_caddie_noncomp_MP4_25.mp4", "09RElance_SECHEURS02_caddie_noncomp15fps.mov", "09RElance_SECHEURS02_caddie_noncompresse.mov", "09RElance_PlastikGirl_Bac03A.mov", "09RElance_PlastikGirl_Bac04A.mov", "*", "*", "*", "09RElance_PlastikGirl_sac02A.mov", "09RElance_SECHEURS01_sac3A.mov", "09RElance_SECHEURS02_caddieA.mov", "09RElance_SECHEURS03_SNCFA.mov", "09RElance_SECHEURS04_BAC5A.mov", "09RElance_PlastikGirl_Bac03A.mov", "09RElance_PlastikGirl_Bac04A.mov", "09RElance_PlastikGirl_sac02A.mov", "09RElance_SECHEURS01_sac3A.mov", "09RElance_SECHEURS02_caddieA.mov", "09RElance_SECHEURS03_SNCFA.mov", "09RElance_SECHEURS04_BAC5A.mov", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ]
+												"key" : "TITRAGE_B",
+												"value" : [ "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ]
 											}
 , 											{
-												"key" : "testperf_06_fichierdupliquer_720pmov",
-												"value" : [ "09RElance_SECHEURS02_caddie 2.mov", "09RElance_SECHEURS02_caddie 3.mov", "09RElance_SECHEURS02_caddie 4.mov", "09RElance_SECHEURS02_caddie 5.mov", "09RElance_SECHEURS02_caddie 6.mov", "09RElance_SECHEURS02_caddie_noncomp15fps.mov", "09RElance_SECHEURS02_caddie 8.mov", "09RElance_SECHEURS02_caddie 9.mov", "09RElance_SECHEURS02_caddie 10.mov", "09RElance_SECHEURS02_caddie 11.mov", "09RElance_SECHEURS02_caddie 12.mov", "09RElance_SECHEURS02_caddie 13.mov", "09RElance_SECHEURS02_caddie 14.mov", "09RElance_SECHEURS02_caddie 15.mov", "09RElance_SECHEURS02_caddie 16.mov", "09RElance_SECHEURS02_caddie 17.mov", "09RElance_SECHEURS02_caddie 18.mov", "09RElance_SECHEURS02_caddie 19.mov", "09RElance_SECHEURS02_caddie 20.mov", "09RElance_SECHEURS02_caddie 21.mov", "09RElance_SECHEURS02_caddie 22.mov", "09RElance_SECHEURS02_caddie 23.mov", "09RElance_SECHEURS02_caddie 24.mov", "09RElance_SECHEURS02_caddie.mov", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ]
+												"key" : "TITRAGE_C ",
+												"value" : [ "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ]
 											}
 , 											{
-												"key" : "testperf_06_memefichier_720pmov",
-												"value" : [ "09RElance_SECHEURS02_caddie 2.mov", "09RElance_SECHEURS02_caddie 2.mov", "09RElance_SECHEURS02_caddie 2.mov", "09RElance_SECHEURS02_caddie 2.mov", "09RElance_SECHEURS02_caddie 2.mov", "09RElance_SECHEURS02_caddie 2.mov", "09RElance_SECHEURS02_caddie 2.mov", "09RElance_SECHEURS02_caddie 2.mov", "09RElance_SECHEURS02_caddie 2.mov", "09RElance_SECHEURS02_caddie 2.mov", "09RElance_SECHEURS02_caddie 2.mov", "09RElance_SECHEURS02_caddie 2.mov", "09RElance_SECHEURS02_caddie 2.mov", "09RElance_SECHEURS02_caddie 2.mov", "09RElance_SECHEURS02_caddie 2.mov", "09RElance_SECHEURS02_caddie 2.mov", "09RElance_SECHEURS02_caddie 2.mov", "09RElance_SECHEURS02_caddie 2.mov", "09RElance_SECHEURS02_caddie 2.mov", "09RElance_SECHEURS02_caddie 2.mov", "09RElance_SECHEURS02_caddie 2.mov", "09RElance_SECHEURS02_caddie 2.mov", "09RElance_SECHEURS02_caddie 2.mov", "09RElance_SECHEURS02_caddie 2.mov", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ]
+												"key" : "TITRAGE_D ",
+												"value" : [ "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ]
 											}
 , 											{
-												"key" : "testperf_mov1fps_8kb_mute",
-												"value" : [ "09RElance_SECHEURS02_caddie_1fps_8kb_mute_mov.mov", "09RElance_SECHEURS02_caddie_1fps_8kb_mute_mov.mov", "09RElance_SECHEURS02_caddie_1fps_8kb_mute_mov.mov", "09RElance_SECHEURS02_caddie_1fps_8kb_mute_mov.mov", "09RElance_SECHEURS02_caddie_1fps_8kb_mute_mov.mov", "09RElance_SECHEURS02_caddie_1fps_8kb_mute_mov.mov", "09RElance_SECHEURS02_caddie_1fps_8kb_mute_mov.mov", "09RElance_SECHEURS02_caddie_1fps_8kb_mute_mov.mov", "09RElance_SECHEURS02_caddie_1fps_8kb_mute_mov.mov", "09RElance_SECHEURS02_caddie_1fps_8kb_mute_mov.mov", "09RElance_SECHEURS02_caddie_1fps_8kb_mute_mov.mov", "09RElance_SECHEURS02_caddie_1fps_8kb_mute_mov.mov", "09RElance_SECHEURS02_caddie_1fps_8kb_mute_mov.mov", "09RElance_SECHEURS02_caddie_1fps_8kb_mute_mov.mov", "09RElance_SECHEURS02_caddie_1fps_8kb_mute_mov.mov", "09RElance_SECHEURS02_caddie_1fps_8kb_mute_mov.mov", "09RElance_SECHEURS02_caddie_1fps_8kb_mute_mov.mov", "09RElance_SECHEURS02_caddie_1fps_8kb_mute_mov.mov", "09RElance_SECHEURS02_caddie_1fps_8kb_mute_mov.mov", "09RElance_SECHEURS02_caddie_1fps_8kb_mute_mov.mov", "09RElance_SECHEURS02_caddie_1fps_8kb_mute_mov.mov", "09RElance_SECHEURS02_caddie_1fps_8kb_mute_mov.mov", "09RElance_SECHEURS02_caddie_1fps_8kb_mute_mov.mov", "09RElance_SECHEURS02_caddie_1fps_8kb_mute_mov.mov", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ]
+												"key" : "TITRAGE_E ",
+												"value" : [ "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ]
 											}
 , 											{
-												"key" : "testperf_1fps_plsr_Ipod",
-												"value" : [ "00PROLOGUE_1biffinV2.mov", "00PROLOGUE_2squatV2.mov", "00PROLOGUE_3sdfV2.mov", "00PROLOGUE_4appartV2.mov", "00PROLOGUE_6papiers.mov", "00PROLOGUE_7glaneurs.mov", "00PROLOGUE_JeanJacques_INTRO.mov", "00PROLOGUE_JeanJacques_MakeOf.mov", "00PROLOGUE_titrage_balai.mov", "09RElance_PlastikGirl_Bac03.mov", "09RElance_PlastikGirl_Bac04.mov", "09RElance_PlastikGirl_sac02.mov", "05NIMBY_1GOLF.mp4", "05NIMBY_B1.mp4", "05NIMBY_periph_V1.mp4", "10CAMPEMENT_annemarie_dwich.mp4", "05NIMBY_B2.mp4", "05NIMBY_periph_V2.mp4", "10CAMPEMENT_Bobbie_enfant_danse_02.mp4", "05NIMBY_periph_V2.mp4", "05NIMBY_periph_V2.mp4", "05NIMBY_periph_V2.mp4", "05NIMBY_periph_V2.mp4", "05NIMBY_periph_V2.mp4", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ]
+												"key" : "BALCON_1",
+												"value" : [ "05ROTULEhansa_RegardBalcon_1.mov", "*", "05ROTULEhansa_RegardBalcon_2.mov", "05ROTULEhansa_RegardBalcon_3.mov", "05ROTULEhansa_RegardBalcon_4.mov", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", 1, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ]
 											}
 , 											{
-												"key" : "ESSAI_01",
-												"value" : [ "00PROLOGUE_1biffinV2.mov", "00PROLOGUE_2squatV2.mov", "00PROLOGUE_3sdfV2.mov", "00PROLOGUE_4appartV2.mov", "00PROLOGUE_6papiers.mov", "00PROLOGUE_7glaneurs.mov", "00PROLOGUE_JeanJacques_INTRO.mov", "00PROLOGUE_JeanJacques_MakeOf.mov", "00PROLOGUE_titrage_balai.mov", "09RElance_PlastikGirl_Bac03.mov", "09RElance_PlastikGirl_Bac04.mov", "09RElance_PlastikGirl_sac02.mov", "05NIMBY_1GOLF.mp4", "05NIMBY_B1.mp4", "05NIMBY_periph_V1.mp4", "10CAMPEMENT_annemarie_dwich.mp4", "05NIMBY_B2.mp4", "05NIMBY_periph_V2.mp4", "10CAMPEMENT_Bobbie_enfant_danse_02.mp4", "05NIMBY_periph_V2.mp4", "05NIMBY_periph_V2.mp4", "05NIMBY_periph_V2.mp4", "05NIMBY_periph_V2.mp4", "05NIMBY_periph_V2.mp4", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0 ]
+												"key" : "BALCON_2 ",
+												"value" : [ "*", "05ROTULEhansa_ENTIER.mov", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", 1, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ]
 											}
 , 											{
-												"key" : "ESSAI_02",
-												"value" : [ "00PROLOGUE_1biffinV2.mov", "*", "*", "00PROLOGUE_4appartV2.mov", "00PROLOGUE_6papiers.mov", "00PROLOGUE_7glaneurs.mov", "00PROLOGUE_JeanJacques_INTRO.mov", "00PROLOGUE_JeanJacques_MakeOf.mov", "00PROLOGUE_titrage_balai.mov", "09RElance_PlastikGirl_Bac03.mov", "09RElance_PlastikGirl_Bac04.mov", "09RElance_PlastikGirl_sac02.mov", "05NIMBY_1GOLF.mp4", "05NIMBY_B1.mp4", "05NIMBY_periph_V1.mp4", "10CAMPEMENT_annemarie_dwich.mp4", "05NIMBY_B2.mp4", "05NIMBY_periph_V2.mp4", "10CAMPEMENT_Bobbie_enfant_danse_02.mp4", "05NIMBY_periph_V2.mp4", "05NIMBY_periph_V2.mp4", "05NIMBY_periph_V2.mp4", "05NIMBY_periph_V2.mp4", "05NIMBY_periph_V2.mp4", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0 ]
+												"key" : "BALCON_3 ",
+												"value" : [ "*", "*", "*", "*", "05TEXTEDIT_JOUR2.mov", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ]
 											}
 , 											{
-												"key" : "testperf_4Ipod_01",
-												"value" : [ "00PROLOGUE_1biffinV2.mov", "00PROLOGUE_2squatV2.mov", "00PROLOGUE_JeanJacques_MakeOf.mov", "00PROLOGUE_4appartV2.mov", "09RElance_SECHEURS03_SNCF.mov", "00PROLOGUE_6papiers.mov", "00PROLOGUE_7glaneurs.mov", "00PROLOGUE_JeanJacques_INTRO.mov", "00PROLOGUE_JeanJacques_MakeOf.mov", "05NIMBY_1GOLF.mp4", "05NIMBY_B1.mp4", "09RElance_SECHEURS01_sac3.mov", "00PROLOGUE_titrage_balai.mov", "10CAMPEMENT_annemarie_dwich.mp4", "05NIMBY_periph_V6.mp4", "10CAMPEMENT_femme_Daniel_oeuf.mp4", "10CAMPEMENT_jeanjack_Pause.mp4", "10CAMPEMENT_poelle_oignon.mp4", "10CAMPEMENT_Bobbie_enfant_danse_02.mp4", "05NIMBY_B7.mp4", "10CAMPEMENT_OLGA_repas.mp4", "05NIMBY_B5.mp4", "05NIMBY_periph_V3.mp4", "10CAMPEMENT_annemarie_dwich.mp4", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ]
+												"key" : "BALCON_4 ",
+												"value" : [ "021_noir.mp4", "*", "021_noir.mp4", "021_noir.mp4", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ]
 											}
 , 											{
-												"key" : "testperf_4Ipod_02",
-												"value" : [ "00PROLOGUE_1biffinV2.mov", "00PROLOGUE_6papiers.mov", "05NIMBY_periph_V5.mp4", "09RElance_PlastikGirl_sac02.mov", "00PROLOGUE_6papiers.mov", "00PROLOGUE_7glaneurs.mov", "00PROLOGUE_JeanJacques_INTRO.mov", "00PROLOGUE_JeanJacques_MakeOf.mov", "00PROLOGUE_titrage_balai.mov", "09RElance_PlastikGirl_Bac03.mov", "09RElance_PlastikGirl_Bac04.mov", "09RElance_PlastikGirl_sac02.mov", "05NIMBY_1GOLF.mp4", "05NIMBY_B1.mp4", "05NIMBY_periph_V1.mp4", "10CAMPEMENT_annemarie_dwich.mp4", "05NIMBY_B2.mp4", "05NIMBY_periph_V2.mp4", "10CAMPEMENT_Bobbie_enfant_danse_02.mp4", "05NIMBY_periph_V2.mp4", "05NIMBY_periph_V2.mp4", "05NIMBY_periph_V2.mp4", "05NIMBY_periph_V2.mp4", "05NIMBY_periph_V2.mp4", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ]
+												"key" : "BALCON_5 ",
+												"value" : [ "06STICKERS_DETOURAGE.mov", "06STICKERS_POTEAUX.mov", "000VALISE_02BANDEAU.mov", "000VALISE_02BANDEAU.mov", "000VALISE_02BANDEAU.mov", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", 1, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ]
 											}
 , 											{
-												"key" : "testperf_4Ipod_03",
-												"value" : [ "00PROLOGUE_2squatV2.mov", "09RElance_PlastikGirl_sac02.mov", "09RElance_PlastikGirl_sac02.mov", "09RElance_PlastikGirl_sac02.mov", "09RElance_PlastikGirl_sac02.mov", "09RElance_PlastikGirl_sac02.mov", "09RElance_PlastikGirl_sac02.mov", "09RElance_PlastikGirl_sac02.mov", "09RElance_PlastikGirl_sac02.mov", "00PROLOGUE_7glaneurs.mov", "09RElance_PlastikGirl_Bac03.mov", "00PROLOGUE_titrage_balai.mov", "09RElance_PlastikGirl_sac02.mov", "09RElance_PlastikGirl_sac02.mov", "09RElance_PlastikGirl_sac02.mov", "09RElance_PlastikGirl_sac02.mov", "09RElance_PlastikGirl_sac02.mov", "09RElance_PlastikGirl_sac02.mov", "09RElance_PlastikGirl_sac02.mov", "09RElance_PlastikGirl_sac02.mov", "09RElance_PlastikGirl_sac02.mov", "09RElance_PlastikGirl_sac02.mov", "09RElance_PlastikGirl_sac02.mov", "09RElance_PlastikGirl_sac02.mov", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ]
+												"key" : "PORTRAITS_1 ",
+												"value" : [ "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ]
 											}
 , 											{
-												"key" : "testperf_Handbrake_01",
-												"value" : [ "00PROLOGUE_1biffinV2.mov", "05NIMBY_periph_V1.mp4", "09RElance_PlastikGirl_Bac03.mov", "05NIMBY_periph_V1.mp4", "05NIMBY_periph_V3.mp4", "09RElance_PlastikGirl_Bac03.mov", "05NIMBY_periph_V5.mp4", "10CAMPEMENT_OLGA_repas.mp4", "10CAMPEMENT_Werner_repas_02.mp4", "09RElance_PlastikGirl_sac02.mov", "05NIMBY_periph_V6.mp4", "10CAMPEMENT_annemarie_dwich.mp4", "05NIMBY_periph_V3.mp4", "09RElance_SECHEURS03_SNCF.mov", "05NIMBY_periph_V5.mp4", "09RElance_PlastikGirl_Bac04.mov", "00PROLOGUE_1biffinV2.mov", "00PROLOGUE_JeanJacques_INTRO.mov", "00PROLOGUE_titrage_balai.mov", "10CAMPEMENT_femme_Daniel_oeuf.mp4", "00PROLOGUE_1biffinV2.mov", "10CAMPEMENT_poelle_oignon.mp4", "09RElance_PlastikGirl_Bac04.mov", "09RElance_SECHEURS03_SNCF.mov", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ]
+												"key" : "PORTRAITS_TEMPO",
+												"value" : [ "00Wait_BlancGrumo1.mov", "00Wait_BlancGrumo2.mov", "00Wait_BlancGrumo3.mov", "00Wait_BlancGrumo4.mov", "00Wait_BlancGrumo5.mov", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ]
 											}
 , 											{
-												"key" : "testperf_handbrake_02",
-												"value" : [ "05NIMBY_periph_V7.mp4", "09RElance_SECHEURS02_caddie.mov", "10CAMPEMENT_Werner_repas_02.mp4", "00PROLOGUE_2squatV2.mov", "00PROLOGUE_titrage_balai.mov", "10CAMPEMENT_Poulet_Jiji.mp4", "09RElance_SECHEURS02_caddie.mov", "10CAMPEMENT_OLGA_repas.mp4", "10CAMPEMENT_femme_Daniel_oeuf.mp4", "05NIMBY_periph_V6.mp4", "10CAMPEMENT_Bobbie_enfant_danse_02.mp4", "09RElance_SECHEURS03_SNCF.mov", "00PROLOGUE_JeanJacques_INTRO.mov", "10CAMPEMENT_Femme_souper_qualitat.mp4", "09RElance_SECHEURS03_SNCF.mov", "05NIMBY_periph_V4.mp4", "05NIMBY_periph_V2.mp4", "10CAMPEMENT_Bobbie_enfant_danse_02.mp4", "05NIMBY_periph_V5.mp4", "00PROLOGUE_titrage_balai.mov", "10CAMPEMENT_Momes_Duplas.mp4", "00PROLOGUE_1biffinV2.mov", "10CAMPEMENT_annemarie_dwich.mp4", "05NIMBY_periph_V7.mp4", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ]
+												"key" : "PORTRAITS_2 ",
+												"value" : [ "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ]
 											}
 , 											{
-												"key" : "testperf_Handbrake_03",
-												"value" : [ "09RElance_SECHEURS03_SNCF.mov", "10CAMPEMENT_Femme_souper_qualitat.mp4", "09RElance_PlastikGirl_sac02.mov", "05NIMBY_periph_V5.mp4", "10CAMPEMENT_Momes_Duplas.mp4", "10CAMPEMENT_annemarie_dwich.mp4", "09RElance_SECHEURS02_caddie.mov", "10CAMPEMENT_tente_toilette.mp4", "00PROLOGUE_3sdfV2.mov", "05NIMBY_periph_V6.mp4", "10CAMPEMENT_Poulet_Jiji.mp4", "10CAMPEMENT_Werner_repas.mp4", "09RElance_PlastikGirl_Bac04.mov", "00PROLOGUE_JeanJacques_INTRO.mov", "10CAMPEMENT_tente_toilette.mp4", "00PROLOGUE_JeanJacques_INTRO.mov", "00PROLOGUE_7glaneurs.mov", "10CAMPEMENT_OLGA_repas.mp4", "09RElance_PlastikGirl_sac02.mov", "10CAMPEMENT_poelle_oignon.mp4", "00PROLOGUE_7glaneurs.mov", "05NIMBY_periph_V2.mp4", "09RElance_SECHEURS02_caddie.mov", "05NIMBY_periph_V3.mp4", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ]
+												"key" : " PORTRAITS_3",
+												"value" : [ "*", "07PORTRAIT_DAVID.mov", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ]
 											}
 , 											{
-												"key" : "testperf_Handbrake_04",
-												"value" : [ "10CAMPEMENT_OLGA_repas.mp4", "09RElance_SECHEURS01_sac3.mov", "10CAMPEMENT_Souleyman_PMU.mp4", "09RElance_PlastikGirl_Bac04.mov", "00PROLOGUE_6papiers.mov", "00PROLOGUE_titrage_balai.mov", "10CAMPEMENT_Souleyman_PMU.mp4", "10CAMPEMENT_Werner_repas.mp4", "10CAMPEMENT_poelle_oignon.mp4", "09RElance_SECHEURS03_SNCF.mov", "10CAMPEMENT_Poulet_Jiji.mp4", "09RElance_SECHEURS02_caddie.mov", "00PROLOGUE_JeanJacques_INTRO.mov", "10CAMPEMENT_Werner_repas.mp4", "00PROLOGUE_2squatV2.mov", "00PROLOGUE_2squatV2.mov", "05NIMBY_periph_V3.mp4", "10CAMPEMENT_femme_Daniel_oeuf.mp4", "10CAMPEMENT_Werner_repas_02.mp4", "05NIMBY_periph_V7.mp4", "00PROLOGUE_4appartV2.mov", "00PROLOGUE_titrage_balai.mov", "10CAMPEMENT_Werner_repas_02.mp4", "10CAMPEMENT_Poulet_Jiji.mp4", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ]
+												"key" : " PORTRAITS_4",
+												"value" : [ "000VALISE_00_POINTEUR.mov", "000VALISE_00_POINTEUR.mov", "000VALISE_00_POINTEUR.mov", "000VALISE_00_POINTEUR.mov", "000VALISE_00_POINTEUR.mov", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ]
 											}
 , 											{
-												"key" : "testperf_handbrake_repas",
-												"value" : [ "*", "*", "*", "*", "*", "*", "*", "*", "*", "1AA2.mp4", "09RElance_SECHEURS04_BAC5.mov", "10CAMPEMENT_Werner_repas_02.mp4", "10CAMPEMENT_annemarie_dwich.mp4", "10CAMPEMENT_Bobbie_enfant_danse_02.mp4", "10CAMPEMENT_femme_Daniel_oeuf.mp4", "10CAMPEMENT_Werner_repa.mp4", "10CAMPEMENT_Werner_repas_02.mp4", "10CAMPEMENT_Werner_repas_02.mp4", "10CAMPEMENT_OLGA_repas.mp4", "10CAMPEMENT_poelle_oignon.mp4", "10CAMPEMENT_Poulet_Jiji.mp4", "10CAMPEMENT_Souleyman_PMU.mp4", "10CAMPEMENT_tente_toilette.mp4", "10CAMPEMENT_Werner_repas.mp4", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ]
+												"key" : "AFTER_TXT ",
+												"value" : [ "*", "*", "*", "09TextEdit_JOUR3.mov", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ]
 											}
 , 											{
-												"key" : " TESTPERF_HANDBRAKE05",
-												"value" : [ "05NIMBY_periph_V1.mp4", "05NIMBY_periph_V2.mp4", "05NIMBY_periph_V3.mp4", "05NIMBY_periph_V4.mp4", "05NIMBY_periph_V5.mp4", "05NIMBY_periph_V6.mp4", "05NIMBY_periph_V7.mp4", "10CAMPEMENT_annemarie_dwich.mp4", "10CAMPEMENT_Bobbie_enfant_danse_02.mp4", "10CAMPEMENT_Momes_Duplas.mp4", "10CAMPEMENT_Femme_souper_qualitat.mp4", "10CAMPEMENT_OLGA_repas.mp4", "10CAMPEMENT_poelle_oignon.mp4", "10CAMPEMENT_Poulet_Jiji.mp4", "10CAMPEMENT_Souleyman_PMU.mp4", "10CAMPEMENT_tente_toilette.mp4", "10CAMPEMENT_Werner_repas_02.mp4", "10CAMPEMENT_Werner_repas.mp4", "05NIMBY_periph_V1.mp4", "05NIMBY_periph_V2.mp4", "05NIMBY_periph_V3.mp4", "05NIMBY_periph_V4.mp4", "05NIMBY_periph_V5.mp4", "05NIMBY_periph_V6.mp4", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ]
+												"key" : "AFTER_FRESK ",
+												"value" : [ "09AFTER_V2_1.mov", "09AFTER_V2_2.mov", "09AFTER_V2_3.mov", "09AFTER_V2_4.mov", "09AFTER_V2_5.mov", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ]
 											}
 , 											{
-												"key" : " TESTPERF_Handbrake06",
-												"value" : [ "09RElance_SECHEURS04_BAC5.mov", "09RElance_SECHEURS02_caddie.mov", "09RElance_PlastikGirl_Bac04.mov", "09RElance_PlastikGirl_Bac03.mov", "09RElance_SECHEURS03_SNCF.mov", "09RElance_SECHEURS04_BAC5.mov", "09RElance_SECHEURS02_caddie.mov", "00PROLOGUE_1biffinV2.mov", "00PROLOGUE_2squatV2.mov", "05NIMBY_periph_V6.mp4", "00PROLOGUE_1biffinV2.mov", "09RElance_SECHEURS03_SNCF.mov", "00PROLOGUE_JeanJacques_INTRO.mov", "00PROLOGUE_titrage_balai.mov", "09RElance_SECHEURS03_SNCF.mov", "00PROLOGUE_JeanJacques_MakeOf.mov", "00PROLOGUE_4appartV2.mov", "00PROLOGUE_7glaneurs.mov", "05NIMBY_periph_V5.mp4", "00PROLOGUE_2squatV2.mov", "09RElance_SECHEURS01_sac3.mov", "00PROLOGUE_1biffinV2.mov", "09RElance_PlastikGirl_sac02.mov", "09RElance_SECHEURS02_caddie.mov", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ]
+												"key" : "AFTER_FRESKvide ",
+												"value" : [ "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ]
+											}
+, 											{
+												"key" : "AFTER_FRESKvide2 ",
+												"value" : [ "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ]
+											}
+, 											{
+												"key" : "AFTER_FRESKvide3 ",
+												"value" : [ "000VALISE_00_POINTEUR.mov", "000VALISE_00_POINTEUR.mov", "000VALISE_00_POINTEUR.mov", "000VALISE_00_POINTEUR.mov", "000VALISE_00_POINTEUR.mov", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", "*", 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ]
 											}
  ]
 									}
@@ -16276,12 +16282,54 @@
 								"box" : 								{
 									"fontname" : "Arial",
 									"fontsize" : 10.0,
+									"frgb" : 0.0,
+									"id" : "obj-52",
+									"maxclass" : "comment",
+									"numinlets" : 1,
+									"numoutlets" : 0,
+									"patching_rect" : [ 1530.5, 137.0, 150.0, 18.0 ],
+									"presentation_rect" : [ 1513.0, 137.0, 0.0, 0.0 ],
+									"text" : "MQTT BRIDGE"
+								}
+
+							}
+, 							{
+								"box" : 								{
+									"fontname" : "Arial",
+									"fontsize" : 10.0,
+									"id" : "obj-51",
+									"maxclass" : "newobj",
+									"numinlets" : 1,
+									"numoutlets" : 0,
+									"patching_rect" : [ 1423.5, 137.0, 107.0, 18.0 ],
+									"text" : "udpsend 2.0.0.1 9037"
+								}
+
+							}
+, 							{
+								"box" : 								{
+									"fontname" : "Arial",
+									"fontsize" : 10.0,
+									"frgb" : 0.0,
+									"id" : "obj-46",
+									"maxclass" : "comment",
+									"numinlets" : 1,
+									"numoutlets" : 0,
+									"patching_rect" : [ 1543.0, 107.0, 150.0, 18.0 ],
+									"text" : "OSC BROADCAST"
+								}
+
+							}
+, 							{
+								"box" : 								{
+									"fontname" : "Arial",
+									"fontsize" : 10.0,
 									"id" : "obj-42",
 									"maxclass" : "newobj",
 									"numinlets" : 1,
 									"numoutlets" : 0,
-									"patching_rect" : [ 1397.0, 97.0, 152.0, 18.0 ],
-									"text" : "udpsend 255.255.255.255 1818"
+									"patching_rect" : [ 1397.0, 97.0, 129.0, 18.0 ],
+									"text" : "udpsend 2.0.255.255 1818"
 								}
 
 							}
@@ -17602,7 +17650,7 @@
 							}
 , 							{
 								"patchline" : 								{
-									"destination" : [ "obj-42", 0 ],
+									"destination" : [ "obj-51", 0 ],
 									"disabled" : 0,
 									"hidden" : 0,
 									"source" : [ "obj-50", 0 ]
@@ -20753,81 +20801,6 @@
 			}
 , 			{
 				"box" : 				{
-					"args" : [ 1, 1 ],
-					"id" : "obj-60",
-					"maxclass" : "bpatcher",
-					"name" : "ipod.maxpat",
-					"numinlets" : 0,
-					"numoutlets" : 0,
-					"patching_rect" : [ 240.0, 180.0, 160.0, 522.0 ],
-					"presentation" : 1,
-					"presentation_rect" : [ 240.0, 180.0, 160.0, 522.0 ],
-					"varname" : "ipod1"
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"args" : [ 2, 2 ],
-					"id" : "obj-64",
-					"maxclass" : "bpatcher",
-					"name" : "ipod.maxpat",
-					"numinlets" : 0,
-					"numoutlets" : 0,
-					"patching_rect" : [ 400.0, 180.0, 160.0, 522.0 ],
-					"presentation" : 1,
-					"presentation_rect" : [ 400.0, 180.0, 160.0, 522.0 ],
-					"varname" : "ipod2"
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"args" : [ 3, 3 ],
-					"id" : "obj-66",
-					"maxclass" : "bpatcher",
-					"name" : "ipod.maxpat",
-					"numinlets" : 0,
-					"numoutlets" : 0,
-					"patching_rect" : [ 560.0, 180.0, 160.0, 522.0 ],
-					"presentation" : 1,
-					"presentation_rect" : [ 560.0, 180.0, 160.0, 522.0 ],
-					"varname" : "ipod3"
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"args" : [ 4, 4 ],
-					"id" : "obj-68",
-					"maxclass" : "bpatcher",
-					"name" : "ipod.maxpat",
-					"numinlets" : 0,
-					"numoutlets" : 0,
-					"patching_rect" : [ 720.0, 180.0, 160.0, 522.0 ],
-					"presentation" : 1,
-					"presentation_rect" : [ 720.0, 180.0, 160.0, 522.0 ],
-					"varname" : "ipod4"
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"args" : [ 5, 5 ],
-					"id" : "obj-70",
-					"maxclass" : "bpatcher",
-					"name" : "ipod.maxpat",
-					"numinlets" : 0,
-					"numoutlets" : 0,
-					"patching_rect" : [ 880.0, 180.0, 160.0, 522.0 ],
-					"presentation" : 1,
-					"presentation_rect" : [ 880.0, 180.0, 160.0, 522.0 ],
-					"varname" : "ipod5"
-				}
-
-			}
-, 			{
-				"box" : 				{
 					"background" : 1,
 					"bgcolor" : [ 0.85098, 0.870588, 0.890196, 1.0 ],
 					"fontface" : 1,
@@ -20853,16 +20826,76 @@
 			}
 , 			{
 				"box" : 				{
-					"args" : [ 6, 6 ],
-					"id" : "obj-72",
+					"args" : [ 1, 1 ],
+					"id" : "obj-58",
 					"maxclass" : "bpatcher",
 					"name" : "ipod.maxpat",
 					"numinlets" : 0,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1040.0, 180.0, 160.0, 522.0 ],
+					"patching_rect" : [ 240.0, 180.0, 160.0, 522.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1040.0, 180.0, 160.0, 522.0 ],
-					"varname" : "ipod6"
+					"presentation_rect" : [ 240.0, 180.0, 160.0, 522.0 ],
+					"varname" : "ipod1"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"args" : [ 5, 2 ],
+					"id" : "obj-60",
+					"maxclass" : "bpatcher",
+					"name" : "ipod.maxpat",
+					"numinlets" : 0,
+					"numoutlets" : 0,
+					"patching_rect" : [ 400.0, 180.0, 160.0, 522.0 ],
+					"presentation" : 1,
+					"presentation_rect" : [ 400.0, 180.0, 160.0, 522.0 ],
+					"varname" : "ipod5"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"args" : [ 4, 3 ],
+					"id" : "obj-63",
+					"maxclass" : "bpatcher",
+					"name" : "ipod.maxpat",
+					"numinlets" : 0,
+					"numoutlets" : 0,
+					"patching_rect" : [ 560.0, 180.0, 160.0, 522.0 ],
+					"presentation" : 1,
+					"presentation_rect" : [ 560.0, 180.0, 160.0, 522.0 ],
+					"varname" : "ipod4"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"args" : [ 3, 4 ],
+					"id" : "obj-68",
+					"maxclass" : "bpatcher",
+					"name" : "ipod.maxpat",
+					"numinlets" : 0,
+					"numoutlets" : 0,
+					"patching_rect" : [ 720.0, 180.0, 160.0, 522.0 ],
+					"presentation" : 1,
+					"presentation_rect" : [ 720.0, 180.0, 160.0, 522.0 ],
+					"varname" : "ipod3"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"args" : [ 8, 5 ],
+					"id" : "obj-71",
+					"maxclass" : "bpatcher",
+					"name" : "ipod.maxpat",
+					"numinlets" : 0,
+					"numoutlets" : 0,
+					"patching_rect" : [ 880.0, 180.0, 160.0, 522.0 ],
+					"presentation" : 1,
+					"presentation_rect" : [ 880.0, 180.0, 160.0, 522.0 ],
+					"varname" : "ipod8"
 				}
 
 			}
@@ -21149,253 +21182,219 @@
 			}
  ],
 		"parameters" : 		{
-			"obj-72::obj-49" : [ "live.toggle[2]", "live.toggle", 0 ],
-			"obj-70::obj-151::obj-194" : [ "live.button[31]", "live.button[1]", 0 ],
-			"obj-60::obj-217" : [ "live.toggle[25]", "live.toggle", 0 ],
-			"obj-1::obj-180" : [ "live.text[46]", "FILTER", 0 ],
-			"obj-68::obj-99::obj-194" : [ "live.button[44]", "live.button[1]", 0 ],
-			"obj-66::obj-251" : [ "live.button[83]", "live.button[1]", 0 ],
-			"obj-64::obj-160" : [ "live.text[32]", "FILTER", 0 ],
-			"obj-60::obj-49" : [ "live.toggle[26]", "live.toggle", 0 ],
-			"obj-68::obj-109::obj-194" : [ "live.button[48]", "live.button[1]", 0 ],
-			"obj-12::obj-176" : [ "live.button[138]", "live.button[36]", 0 ],
-			"obj-70::obj-52" : [ "live.toggle[5]", "live.toggle", 0 ],
-			"obj-66::obj-195" : [ "live.text[25]", "FILTER", 0 ],
-			"obj-1::obj-137" : [ "live.text[47]", "live.text[3]", 0 ],
-			"obj-26::obj-176" : [ "live.button[143]", "live.button[36]", 0 ],
-			"obj-72::obj-195" : [ "live.text[8]", "FILTER", 0 ],
-			"obj-66::obj-29" : [ "live.toggle[17]", "live.toggle", 0 ],
-			"obj-60::obj-151::obj-194" : [ "live.button[115]", "live.button[1]", 0 ],
-			"obj-1::obj-47" : [ "live.button[128]", "live.button[7]", 0 ],
-			"obj-19::obj-52" : [ "live.toggle[62]", "live.toggle", 0 ],
-			"obj-21::obj-120" : [ "live.button[148]", "live.button[7]", 0 ],
-			"obj-72::obj-18" : [ "live.text[2]", "FILTER", 0 ],
-			"obj-70::obj-160" : [ "live.text[11]", "FILTER", 0 ],
-			"obj-60::obj-147::obj-193" : [ "live.button[119]", "live.button[1]", 0 ],
-			"obj-55" : [ "live.button[532]", "live.button", 0 ],
-			"obj-68::obj-149::obj-194" : [ "live.button[54]", "live.button[1]", 0 ],
-			"obj-64::obj-99::obj-193" : [ "live.button[87]", "live.button[1]", 0 ],
-			"obj-60::obj-143::obj-193" : [ "live.button[122]", "live.button[1]", 0 ],
-			"obj-205" : [ "live.button[531]", "live.button", 0 ],
-			"obj-72::obj-117::obj-193" : [ "live.button[9]", "live.button[1]", 0 ],
-			"obj-72::obj-187" : [ "live.numbox", "live.numbox", 0 ],
-			"obj-70::obj-256" : [ "live.text[15]", "FILTER", 0 ],
-			"obj-66::obj-149::obj-193" : [ "live.button[76]", "live.button[1]", 0 ],
-			"obj-60::obj-23" : [ "live.text[42]", "FILTER", 0 ],
-			"obj-72::obj-149::obj-194" : [ "live.button[13]", "live.button[1]", 0 ],
-			"obj-64::obj-151::obj-193" : [ "live.button[95]", "live.button[1]", 0 ],
-			"obj-64::obj-264" : [ "live.toggle[22]", "live.toggle", 0 ],
-			"obj-1::obj-231" : [ "live.toggle[63]", "live.toggle", 0 ],
-			"obj-68::obj-149::obj-193" : [ "live.button[55]", "live.button[1]", 0 ],
-			"obj-68::obj-187" : [ "live.numbox[2]", "live.numbox", 0 ],
-			"obj-66::obj-86" : [ "live.button[82]", "live.button", 0 ],
-			"obj-60::obj-160" : [ "live.text[43]", "FILTER", 0 ],
-			"obj-1::obj-103" : [ "live.text", "live.text", 0 ],
-			"obj-7::obj-176" : [ "live.button[203]", "live.button[36]", 0 ],
-			"obj-72::obj-99::obj-194" : [ "live.button[3]", "live.button[1]", 0 ],
-			"obj-70::obj-151::obj-193" : [ "live.button[32]", "live.button[1]", 0 ],
-			"obj-68::obj-251" : [ "live.button[60]", "live.button[1]", 0 ],
-			"obj-68::obj-18" : [ "live.text[18]", "FILTER", 0 ],
-			"obj-66::obj-109::obj-194" : [ "live.button[69]", "live.button[1]", 0 ],
-			"obj-1::obj-176" : [ "live.text[44]", "FILTER", 0 ],
-			"obj-72::obj-104::obj-193" : [ "live.button[6]", "live.button[1]", 0 ],
-			"obj-70::obj-117::obj-194" : [ "live.button[30]", "live.button[1]", 0 ],
-			"obj-66::obj-274::obj-193" : [ "live.button[63]", "live.button[1]", 0 ],
-			"obj-66::obj-117::obj-194" : [ "live.button[72]", "live.button[1]", 0 ],
-			"obj-70::obj-251" : [ "live.button[41]", "live.button[1]", 0 ],
-			"obj-68::obj-264" : [ "live.toggle[13]", "live.toggle", 0 ],
-			"obj-60::obj-235" : [ "live.text[41]", "FILTER", 0 ],
-			"obj-1::obj-8" : [ "live.text[45]", "FILTER", 0 ],
-			"obj-70::obj-143::obj-194" : [ "live.button[37]", "live.button[1]", 0 ],
-			"obj-68::obj-29" : [ "live.toggle[12]", "live.toggle", 0 ],
-			"obj-72::obj-217" : [ "live.toggle[3]", "live.toggle", 0 ],
-			"obj-60::obj-52" : [ "live.toggle[29]", "live.toggle", 0 ],
-			"obj-13::obj-176" : [ "live.button[139]", "live.button[36]", 0 ],
-			"obj-64::obj-18" : [ "live.text[33]", "FILTER", 0 ],
-			"obj-60::obj-109::obj-194" : [ "live.button[111]", "live.button[1]", 0 ],
-			"obj-26::obj-120" : [ "live.button[144]", "live.button[7]", 0 ],
-			"obj-70::obj-49" : [ "live.toggle[9]", "live.toggle", 0 ],
-			"obj-66::obj-23" : [ "live.text[27]", "FILTER", 0 ],
-			"obj-60::obj-151::obj-193" : [ "live.button[116]", "live.button[1]", 0 ],
-			"obj-60::obj-250" : [ "live.button[124]", "live.button[1]", 0 ],
-			"obj-70::obj-18" : [ "live.text[10]", "FILTER", 0 ],
-			"obj-66::obj-160" : [ "live.text[23]", "FILTER", 0 ],
-			"obj-60::obj-147::obj-194" : [ "live.button[120]", "live.button[1]", 0 ],
-			"obj-66::obj-151::obj-193" : [ "live.button[73]", "live.button[1]", 0 ],
-			"obj-60::obj-251" : [ "live.button[123]", "live.button[1]", 0 ],
-			"obj-72::obj-274::obj-193" : [ "live.button[1]", "live.button[1]", 0 ],
-			"obj-72::obj-117::obj-194" : [ "live.button[10]", "live.button[1]", 0 ],
-			"obj-66::obj-147::obj-194" : [ "live.button[77]", "live.button[1]", 0 ],
-			"obj-72::obj-147::obj-193" : [ "live.button[15]", "live.button[1]", 0 ],
-			"obj-64::obj-149::obj-193" : [ "live.button[96]", "live.button[1]", 0 ],
-			"obj-60::obj-264" : [ "live.toggle[28]", "live.toggle", 0 ],
-			"obj-1::obj-89" : [ "live.tab", "live.tab", 0 ],
-			"obj-72::obj-23" : [ "live.text[3]", "FILTER", 0 ],
-			"obj-70::obj-99::obj-194" : [ "live.button[23]", "live.button[1]", 0 ],
-			"obj-70::obj-147::obj-194" : [ "live.button[36]", "live.button[1]", 0 ],
-			"obj-70::obj-187" : [ "live.numbox[1]", "live.numbox", 0 ],
-			"obj-66::obj-104::obj-193" : [ "live.button[67]", "live.button[1]", 0 ],
-			"obj-1::obj-24" : [ "live.button[130]", "live.button[7]", 0 ],
-			"obj-70::obj-117::obj-193" : [ "live.button[29]", "live.button[1]", 0 ],
-			"obj-68::obj-117::obj-194" : [ "live.button[50]", "live.button[1]", 0 ],
-			"obj-68::obj-143::obj-194" : [ "live.button[58]", "live.button[1]", 0 ],
-			"obj-66::obj-216" : [ "live.text[24]", "live.text[3]", 0 ],
-			"obj-1::obj-53" : [ "live.button[132]", "live.button[7]", 0 ],
-			"obj-70::obj-109::obj-194" : [ "live.button[28]", "live.button[1]", 0 ],
-			"obj-68::obj-151::obj-194" : [ "live.button[53]", "live.button[1]", 0 ],
-			"obj-1::obj-264" : [ "live.toggle[30]", "live.toggle", 0 ],
-			"obj-1::obj-117" : [ "live.text[49]", "FILTER", 0 ],
-			"obj-70::obj-195" : [ "live.text[12]", "FILTER", 0 ],
-			"obj-68::obj-274::obj-193" : [ "live.button[42]", "live.button[1]", 0 ],
-			"obj-60::obj-195" : [ "live.text[40]", "FILTER", 0 ],
-			"obj-1::obj-23" : [ "live.text[50]", "FILTER", 0 ],
-			"obj-68::obj-99::obj-193" : [ "live.button[45]", "live.button[1]", 0 ],
-			"obj-68::obj-217" : [ "live.toggle[11]", "live.toggle", 0 ],
-			"obj-64::obj-217" : [ "live.toggle[23]", "live.toggle", 0 ],
-			"obj-11::obj-120" : [ "live.button[136]", "live.button[7]", 0 ],
-			"obj-66::obj-264" : [ "live.toggle[16]", "live.toggle", 0 ],
-			"obj-64::obj-235" : [ "live.text[31]", "FILTER", 0 ],
-			"obj-13::obj-120" : [ "live.button[140]", "live.button[7]", 0 ],
-			"obj-72::obj-52" : [ "live.toggle[1]", "live.toggle", 0 ],
-			"obj-68::obj-195" : [ "live.text[17]", "FILTER", 0 ],
-			"obj-60::obj-109::obj-193" : [ "live.button[112]", "live.button[1]", 0 ],
-			"obj-60::obj-29" : [ "live.toggle[27]", "live.toggle", 0 ],
-			"obj-1::obj-48" : [ "live.text[48]", "live.text", 0 ],
-			"obj-22::obj-176" : [ "live.button[145]", "live.button[36]", 0 ],
-			"obj-72::obj-274::obj-194" : [ "live.button[2]", "live.button[1]", 0 ],
-			"obj-70::obj-264" : [ "live.toggle[7]", "live.toggle", 0 ],
-			"obj-68::obj-216" : [ "live.text[21]", "live.text[3]", 0 ],
-			"obj-60::obj-149::obj-193" : [ "live.button[117]", "live.button[1]", 0 ],
-			"obj-33::obj-120" : [ "live.button[149]", "live.button[7]", 0 ],
-			"obj-72::obj-143::obj-194" : [ "live.button[18]", "live.button[1]", 0 ],
-			"obj-68::obj-235" : [ "live.text[22]", "FILTER", 0 ],
-			"obj-64::obj-143::obj-193" : [ "live.button[100]", "live.button[1]", 0 ],
-			"obj-72::obj-250" : [ "live.button[19]", "live.button[1]", 0 ],
-			"obj-66::obj-52" : [ "live.toggle[18]", "live.toggle", 0 ],
-			"obj-64::obj-104::obj-193" : [ "live.button[88]", "live.button[1]", 0 ],
-			"obj-72::obj-151::obj-194" : [ "live.button[11]", "live.button[1]", 0 ],
-			"obj-72::obj-256" : [ "live.text[5]", "FILTER", 0 ],
-			"obj-72::obj-251" : [ "live.button[20]", "live.button[1]", 0 ],
-			"obj-72::obj-216" : [ "live.text[4]", "live.text[3]", 0 ],
-			"obj-66::obj-147::obj-193" : [ "live.button[78]", "live.button[1]", 0 ],
-			"obj-66::obj-49" : [ "live.toggle[19]", "live.toggle", 0 ],
-			"obj-72::obj-147::obj-194" : [ "live.button[16]", "live.button[1]", 0 ],
-			"obj-68::obj-109::obj-193" : [ "live.button[49]", "live.button[1]", 0 ],
-			"obj-66::obj-143::obj-194" : [ "live.button[80]", "live.button[1]", 0 ],
-			"obj-64::obj-109::obj-194" : [ "live.button[91]", "live.button[1]", 0 ],
-			"obj-64::obj-52" : [ "live.toggle[24]", "live.toggle", 0 ],
-			"obj-70::obj-99::obj-193" : [ "live.button[24]", "live.button[1]", 0 ],
-			"obj-70::obj-104::obj-193" : [ "live.button[26]", "live.button[1]", 0 ],
-			"obj-68::obj-147::obj-194" : [ "live.button[56]", "live.button[1]", 0 ],
-			"obj-64::obj-109::obj-193" : [ "live.button[90]", "live.button[1]", 0 ],
-			"obj-60::obj-104::obj-194" : [ "live.button[109]", "live.button[1]", 0 ],
-			"obj-60::obj-18" : [ "live.text[39]", "FILTER", 0 ],
-			"obj-70::obj-109::obj-193" : [ "live.button[27]", "live.button[1]", 0 ],
-			"obj-68::obj-250" : [ "live.button[61]", "live.button[1]", 0 ],
-			"obj-66::obj-109::obj-193" : [ "live.button[70]", "live.button[1]", 0 ],
-			"obj-64::obj-251" : [ "live.button[102]", "live.button[1]", 0 ],
-			"obj-60::obj-104::obj-193" : [ "live.button[110]", "live.button[1]", 0 ],
-			"obj-70::obj-250" : [ "live.button[40]", "live.button[1]", 0 ],
-			"obj-68::obj-256" : [ "live.text[16]", "FILTER", 0 ],
-			"obj-66::obj-274::obj-194" : [ "live.button[64]", "live.button[1]", 0 ],
-			"obj-70::obj-274::obj-194" : [ "live.button[22]", "live.button[1]", 0 ],
-			"obj-70::obj-147::obj-193" : [ "live.button[35]", "live.button[1]", 0 ],
-			"obj-66::obj-149::obj-194" : [ "live.button[75]", "live.button[1]", 0 ],
-			"obj-64::obj-274::obj-193" : [ "live.button[85]", "live.button[1]", 0 ],
-			"obj-64::obj-23" : [ "live.text[36]", "FILTER", 0 ],
-			"obj-11::obj-176" : [ "live.button[135]", "live.button[36]", 0 ],
-			"obj-68::obj-104::obj-194" : [ "live.button[46]", "live.button[1]", 0 ],
-			"obj-64::obj-49" : [ "live.toggle[21]", "live.toggle", 0 ],
-			"obj-60::obj-274::obj-193" : [ "live.button[106]", "live.button[1]", 0 ],
-			"obj-72::obj-235" : [ "live.text[6]", "FILTER", 0 ],
-			"obj-70::obj-29" : [ "live.toggle[8]", "live.toggle", 0 ],
-			"obj-64::obj-195" : [ "live.text[30]", "FILTER", 0 ],
-			"obj-27::obj-176" : [ "live.button[141]", "live.button[36]", 0 ],
-			"obj-70::obj-235" : [ "live.text[9]", "FILTER", 0 ],
-			"obj-68::obj-49" : [ "live.toggle[14]", "live.toggle", 0 ],
-			"obj-60::obj-117::obj-194" : [ "live.button[113]", "live.button[1]", 0 ],
-			"obj-22::obj-120" : [ "live.button[146]", "live.button[7]", 0 ],
-			"obj-64::obj-256" : [ "live.text[34]", "FILTER", 0 ],
-			"obj-60::obj-149::obj-194" : [ "live.button[118]", "live.button[1]", 0 ],
-			"obj-1::obj-32" : [ "live.button[129]", "live.button[7]", 0 ],
-			"obj-33::obj-176" : [ "live.button[150]", "live.button[36]", 0 ],
-			"obj-68::obj-151::obj-193" : [ "live.button[52]", "live.button[1]", 0 ],
-			"obj-64::obj-274::obj-194" : [ "live.button[84]", "live.button[1]", 0 ],
-			"obj-60::obj-143::obj-194" : [ "live.button[121]", "live.button[1]", 0 ],
-			"obj-66::obj-151::obj-194" : [ "live.button[74]", "live.button[1]", 0 ],
-			"obj-60::obj-216" : [ "live.text[37]", "live.text[3]", 0 ],
-			"obj-19::obj-20" : [ "live.button[133]", "live.button", 0 ],
-			"obj-72::obj-143::obj-193" : [ "live.button[17]", "live.button[1]", 0 ],
-			"obj-72::obj-86" : [ "live.button", "live.button", 0 ],
-			"obj-68::obj-52" : [ "live.toggle[10]", "live.toggle", 0 ],
-			"obj-64::obj-151::obj-194" : [ "live.button[94]", "live.button[1]", 0 ],
-			"obj-72::obj-160" : [ "live.text[7]", "FILTER", 0 ],
-			"obj-70::obj-274::obj-193" : [ "live.button[21]", "live.button[1]", 0 ],
-			"obj-66::obj-99::obj-193" : [ "live.button[65]", "live.button[1]", 0 ],
-			"obj-64::obj-149::obj-194" : [ "live.button[97]", "live.button[1]", 0 ],
-			"obj-60::obj-187" : [ "live.numbox[5]", "live.numbox", 0 ],
-			"obj-70::obj-104::obj-194" : [ "live.button[25]", "live.button[1]", 0 ],
-			"obj-68::obj-160" : [ "live.text[20]", "FILTER", 0 ],
-			"obj-66::obj-104::obj-194" : [ "live.button[68]", "live.button[1]", 0 ],
-			"obj-66::obj-217" : [ "live.toggle[15]", "live.toggle", 0 ],
-			"obj-64::obj-250" : [ "live.button[104]", "live.button[1]", 0 ],
-			"obj-70::obj-86" : [ "live.button[39]", "live.button", 0 ],
-			"obj-68::obj-117::obj-193" : [ "live.button[51]", "live.button[1]", 0 ],
-			"obj-68::obj-143::obj-193" : [ "live.button[59]", "live.button[1]", 0 ],
-			"obj-64::obj-117::obj-194" : [ "live.button[92]", "live.button[1]", 0 ],
-			"obj-60::obj-274::obj-194" : [ "live.button[105]", "live.button[1]", 0 ],
-			"obj-120" : [ "live.button[151]", "live.button[7]", 0 ],
-			"obj-70::obj-149::obj-193" : [ "live.button[34]", "live.button[1]", 0 ],
-			"obj-64::obj-99::obj-194" : [ "live.button[86]", "live.button[1]", 0 ],
-			"obj-68::obj-274::obj-194" : [ "live.button[43]", "live.button[1]", 0 ],
-			"obj-64::obj-117::obj-193" : [ "live.button[93]", "live.button[1]", 0 ],
-			"obj-60::obj-99::obj-194" : [ "live.button[107]", "live.button[1]", 0 ],
-			"obj-60::obj-99::obj-193" : [ "live.button[108]", "live.button[1]", 0 ],
-			"obj-68::obj-104::obj-193" : [ "live.button[47]", "live.button[1]", 0 ],
-			"obj-66::obj-256" : [ "live.text[26]", "FILTER", 0 ],
-			"obj-64::obj-29" : [ "live.toggle[20]", "live.toggle", 0 ],
-			"obj-12::obj-120" : [ "live.button[137]", "live.button[7]", 0 ],
-			"obj-70::obj-217" : [ "live.toggle[6]", "live.toggle", 0 ],
-			"obj-66::obj-235" : [ "live.text[29]", "FILTER", 0 ],
-			"obj-64::obj-187" : [ "live.numbox[4]", "live.numbox", 0 ],
+			"obj-68::obj-147::obj-193" : [ "live.button[36]", "live.button[1]", 0 ],
 			"obj-19::obj-68" : [ "live.toggle[61]", "live.toggle", 0 ],
-			"obj-27::obj-120" : [ "live.button[142]", "live.button[7]", 0 ],
-			"obj-66::obj-250" : [ "live.button[81]", "live.button[1]", 0 ],
-			"obj-60::obj-117::obj-193" : [ "live.button[114]", "live.button[1]", 0 ],
-			"obj-7::obj-120" : [ "live.button[134]", "live.button[7]", 0 ],
-			"obj-21::obj-176" : [ "live.button[147]", "live.button[36]", 0 ],
-			"obj-70::obj-23" : [ "live.text[13]", "FILTER", 0 ],
-			"obj-66::obj-18" : [ "live.text[28]", "FILTER", 0 ],
-			"obj-64::obj-147::obj-194" : [ "live.button[99]", "live.button[1]", 0 ],
-			"obj-60::obj-86" : [ "live.button[125]", "live.button", 0 ],
-			"obj-1::obj-11" : [ "live.button[126]", "live.button[7]", 0 ],
-			"obj-72::obj-264" : [ "live.toggle[4]", "live.toggle", 0 ],
-			"obj-70::obj-216" : [ "live.text[14]", "live.text[3]", 0 ],
-			"obj-64::obj-143::obj-194" : [ "live.button[101]", "live.button[1]", 0 ],
-			"obj-1::obj-62" : [ "live.button[127]", "live.button[7]", 0 ],
-			"obj-72::obj-109::obj-194" : [ "live.button[8]", "live.button[1]", 0 ],
-			"obj-72::obj-151::obj-193" : [ "live.button[12]", "live.button[1]", 0 ],
-			"obj-68::obj-23" : [ "live.text[19]", "FILTER", 0 ],
-			"obj-64::obj-104::obj-194" : [ "live.button[89]", "live.button[1]", 0 ],
-			"obj-72::obj-99::obj-193" : [ "live.button[4]", "live.button[1]", 0 ],
-			"obj-72::obj-149::obj-193" : [ "live.button[14]", "live.button[1]", 0 ],
-			"obj-66::obj-143::obj-193" : [ "live.button[79]", "live.button[1]", 0 ],
-			"obj-60::obj-256" : [ "live.text[38]", "FILTER", 0 ],
-			"obj-1::obj-59" : [ "live.button[131]", "live.button[7]", 0 ],
+			"obj-21::obj-120" : [ "live.button[140]", "live.button[7]", 0 ],
+			"obj-71::obj-49" : [ "live.toggle[2]", "live.toggle", 0 ],
+			"obj-63::obj-235" : [ "live.text[16]", "FILTER", 0 ],
+			"obj-60::obj-216" : [ "live.text[27]", "live.text[3]", 0 ],
+			"obj-19::obj-20" : [ "live.button[112]", "live.button", 0 ],
+			"obj-22::obj-120" : [ "live.button[137]", "live.button[7]", 0 ],
+			"obj-33::obj-120" : [ "live.button[142]", "live.button[7]", 0 ],
+			"obj-68::obj-264" : [ "live.toggle[9]", "live.toggle", 0 ],
+			"obj-58::obj-23" : [ "live.text[32]", "FILTER", 0 ],
+			"obj-13::obj-176" : [ "live.button[117]", "live.button[36]", 0 ],
+			"obj-71::obj-52" : [ "live.toggle[1]", "live.toggle", 0 ],
+			"obj-68::obj-195" : [ "live.text[11]", "FILTER", 0 ],
+			"obj-60::obj-23" : [ "live.text[23]", "FILTER", 0 ],
+			"obj-58::obj-143::obj-193" : [ "live.button[100]", "live.button[1]", 0 ],
+			"obj-60::obj-195" : [ "live.text[25]", "FILTER", 0 ],
+			"obj-58::obj-99::obj-193" : [ "live.button[87]", "live.button[1]", 0 ],
+			"obj-71::obj-117::obj-194" : [ "live.button[9]", "live.button[1]", 0 ],
+			"obj-60::obj-149::obj-193" : [ "live.button[75]", "live.button[1]", 0 ],
 			"obj-32" : [ "live.button[530]", "live.button[7]", 0 ],
-			"obj-72::obj-104::obj-194" : [ "live.button[5]", "live.button[1]", 0 ],
-			"obj-66::obj-99::obj-194" : [ "live.button[66]", "live.button[1]", 0 ],
-			"obj-66::obj-187" : [ "live.numbox[3]", "live.numbox", 0 ],
-			"obj-64::obj-147::obj-193" : [ "live.button[98]", "live.button[1]", 0 ],
-			"obj-72::obj-29" : [ "live.toggle", "live.toggle", 0 ],
-			"obj-70::obj-143::obj-193" : [ "live.button[38]", "live.button[1]", 0 ],
-			"obj-68::obj-147::obj-193" : [ "live.button[57]", "live.button[1]", 0 ],
-			"obj-64::obj-216" : [ "live.text[35]", "live.text[3]", 0 ],
-			"obj-72::obj-109::obj-193" : [ "live.button[7]", "live.button[1]", 0 ],
-			"obj-70::obj-149::obj-194" : [ "live.button[33]", "live.button[1]", 0 ],
-			"obj-68::obj-86" : [ "live.button[62]", "live.button", 0 ],
-			"obj-66::obj-117::obj-193" : [ "live.button[71]", "live.button[1]", 0 ],
-			"obj-64::obj-86" : [ "live.button[103]", "live.button", 0 ]
+			"obj-71::obj-149::obj-193" : [ "live.button[13]", "live.button[1]", 0 ],
+			"obj-71::obj-250" : [ "live.button[19]", "live.button[1]", 0 ],
+			"obj-68::obj-187" : [ "live.numbox[1]", "live.numbox", 0 ],
+			"obj-58::obj-151::obj-193" : [ "live.button[95]", "live.button[1]", 0 ],
+			"obj-1::obj-8" : [ "live.text[43]", "FILTER", 0 ],
+			"obj-71::obj-251" : [ "live.button[20]", "live.button[1]", 0 ],
+			"obj-68::obj-160" : [ "live.text[12]", "FILTER", 0 ],
+			"obj-63::obj-143::obj-194" : [ "live.button[59]", "live.button[1]", 0 ],
+			"obj-58::obj-147::obj-193" : [ "live.button[98]", "live.button[1]", 0 ],
+			"obj-71::obj-256" : [ "live.text[5]", "FILTER", 0 ],
+			"obj-68::obj-151::obj-194" : [ "live.button[32]", "live.button[1]", 0 ],
+			"obj-63::obj-117::obj-194" : [ "live.button[51]", "live.button[1]", 0 ],
+			"obj-60::obj-160" : [ "live.text[24]", "FILTER", 0 ],
+			"obj-68::obj-117::obj-193" : [ "live.button[30]", "live.button[1]", 0 ],
+			"obj-60::obj-274::obj-193" : [ "live.button[64]", "live.button[1]", 0 ],
+			"obj-1::obj-264" : [ "live.toggle[25]", "live.toggle", 0 ],
+			"obj-1::obj-231" : [ "live.toggle[63]", "live.toggle", 0 ],
+			"obj-1::obj-62" : [ "live.button[110]", "live.button[7]", 0 ],
+			"obj-68::obj-86" : [ "live.button[41]", "live.button", 0 ],
+			"obj-60::obj-104::obj-193" : [ "live.button[67]", "live.button[1]", 0 ],
+			"obj-68::obj-143::obj-194" : [ "live.button[37]", "live.button[1]", 0 ],
+			"obj-63::obj-256" : [ "live.text[18]", "FILTER", 0 ],
+			"obj-60::obj-109::obj-194" : [ "live.button[70]", "live.button[1]", 0 ],
+			"obj-60::obj-256" : [ "live.text[29]", "FILTER", 0 ],
+			"obj-26::obj-120" : [ "live.button[136]", "live.button[7]", 0 ],
+			"obj-71::obj-104::obj-194" : [ "live.button[6]", "live.button[1]", 0 ],
+			"obj-60::obj-264" : [ "live.toggle[16]", "live.toggle", 0 ],
+			"obj-68::obj-18" : [ "live.text[10]", "FILTER", 0 ],
+			"obj-63::obj-195" : [ "live.text[21]", "FILTER", 0 ],
+			"obj-1::obj-32" : [ "live.button[109]", "live.button[7]", 0 ],
+			"obj-11::obj-176" : [ "live.button[113]", "live.button[36]", 0 ],
+			"obj-71::obj-235" : [ "live.text[6]", "FILTER", 0 ],
+			"obj-68::obj-29" : [ "live.toggle[7]", "live.toggle", 0 ],
+			"obj-60::obj-86" : [ "live.button[82]", "live.button", 0 ],
+			"obj-1::obj-48" : [ "live.text[41]", "live.text", 0 ],
+			"obj-55" : [ "live.button[532]", "live.button", 0 ],
+			"obj-63::obj-160" : [ "live.text[22]", "FILTER", 0 ],
+			"obj-58::obj-109::obj-193" : [ "live.button[91]", "live.button[1]", 0 ],
+			"obj-58::obj-195" : [ "live.text[34]", "FILTER", 0 ],
+			"obj-205" : [ "live.button[531]", "live.button", 0 ],
+			"obj-60::obj-151::obj-194" : [ "live.button[73]", "live.button[1]", 0 ],
+			"obj-58::obj-109::obj-194" : [ "live.button[90]", "live.button[1]", 0 ],
+			"obj-1::obj-117" : [ "live.text[37]", "FILTER", 0 ],
+			"obj-71::obj-117::obj-193" : [ "live.button[10]", "live.button[1]", 0 ],
+			"obj-60::obj-147::obj-194" : [ "live.button[77]", "live.button[1]", 0 ],
+			"obj-71::obj-147::obj-193" : [ "live.button[15]", "live.button[1]", 0 ],
+			"obj-71::obj-216" : [ "live.text[4]", "live.text[3]", 0 ],
+			"obj-58::obj-149::obj-194" : [ "live.button[96]", "live.button[1]", 0 ],
+			"obj-58::obj-160" : [ "live.text[31]", "FILTER", 0 ],
+			"obj-1::obj-23" : [ "live.text[38]", "FILTER", 0 ],
+			"obj-68::obj-99::obj-193" : [ "live.button[23]", "live.button[1]", 0 ],
+			"obj-68::obj-117::obj-194" : [ "live.button[29]", "live.button[1]", 0 ],
+			"obj-63::obj-86" : [ "live.button[62]", "live.button", 0 ],
+			"obj-58::obj-52" : [ "live.toggle[24]", "live.toggle", 0 ],
+			"obj-68::obj-109::obj-193" : [ "live.button[28]", "live.button[1]", 0 ],
+			"obj-63::obj-149::obj-194" : [ "live.button[54]", "live.button[1]", 0 ],
+			"obj-63::obj-264" : [ "live.toggle[13]", "live.toggle", 0 ],
+			"obj-1::obj-24" : [ "live.button[105]", "live.button[7]", 0 ],
+			"obj-71::obj-23" : [ "live.text[3]", "FILTER", 0 ],
+			"obj-63::obj-274::obj-193" : [ "live.button[42]", "live.button[1]", 0 ],
+			"obj-63::obj-147::obj-194" : [ "live.button[56]", "live.button[1]", 0 ],
+			"obj-26::obj-176" : [ "live.button[135]", "live.button[36]", 0 ],
+			"obj-71::obj-217" : [ "live.toggle[3]", "live.toggle", 0 ],
+			"obj-63::obj-99::obj-193" : [ "live.button[45]", "live.button[1]", 0 ],
+			"obj-60::obj-117::obj-194" : [ "live.button[71]", "live.button[1]", 0 ],
+			"obj-60::obj-235" : [ "live.text[26]", "FILTER", 0 ],
+			"obj-27::obj-176" : [ "live.button[134]", "live.button[36]", 0 ],
+			"obj-68::obj-49" : [ "live.toggle[8]", "live.toggle", 0 ],
+			"obj-60::obj-49" : [ "live.toggle[19]", "live.toggle", 0 ],
+			"obj-68::obj-235" : [ "live.text[9]", "FILTER", 0 ],
+			"obj-11::obj-120" : [ "live.button[114]", "live.button[7]", 0 ],
+			"obj-22::obj-176" : [ "live.button[138]", "live.button[36]", 0 ],
+			"obj-60::obj-251" : [ "live.button[83]", "live.button[1]", 0 ],
+			"obj-58::obj-147::obj-194" : [ "live.button[99]", "live.button[1]", 0 ],
+			"obj-58::obj-235" : [ "live.text[33]", "FILTER", 0 ],
+			"obj-33::obj-176" : [ "live.button[141]", "live.button[36]", 0 ],
+			"obj-63::obj-151::obj-193" : [ "live.button[52]", "live.button[1]", 0 ],
+			"obj-58::obj-143::obj-194" : [ "live.button[101]", "live.button[1]", 0 ],
+			"obj-71::obj-274::obj-193" : [ "live.button[1]", "live.button[1]", 0 ],
+			"obj-63::obj-23" : [ "live.text[19]", "FILTER", 0 ],
+			"obj-58::obj-104::obj-193" : [ "live.button[88]", "live.button[1]", 0 ],
+			"obj-71::obj-151::obj-193" : [ "live.button[11]", "live.button[1]", 0 ],
+			"obj-60::obj-147::obj-193" : [ "live.button[78]", "live.button[1]", 0 ],
+			"obj-58::obj-117::obj-194" : [ "live.button[92]", "live.button[1]", 0 ],
+			"obj-1::obj-137" : [ "live.text[42]", "live.text[3]", 0 ],
+			"obj-71::obj-151::obj-194" : [ "live.button[12]", "live.button[1]", 0 ],
+			"obj-71::obj-147::obj-194" : [ "live.button[16]", "live.button[1]", 0 ],
+			"obj-68::obj-104::obj-194" : [ "live.button[26]", "live.button[1]", 0 ],
+			"obj-68::obj-216" : [ "live.text[14]", "live.text[3]", 0 ],
+			"obj-60::obj-143::obj-194" : [ "live.button[80]", "live.button[1]", 0 ],
+			"obj-68::obj-99::obj-194" : [ "live.button[24]", "live.button[1]", 0 ],
+			"obj-63::obj-251" : [ "live.button[60]", "live.button[1]", 0 ],
+			"obj-60::obj-217" : [ "live.toggle[15]", "live.toggle", 0 ],
+			"obj-68::obj-109::obj-194" : [ "live.button[27]", "live.button[1]", 0 ],
+			"obj-60::obj-274::obj-194" : [ "live.button[63]", "live.button[1]", 0 ],
+			"obj-58::obj-217" : [ "live.toggle[23]", "live.toggle", 0 ],
+			"obj-71::obj-86" : [ "live.button", "live.button", 0 ],
+			"obj-68::obj-251" : [ "live.button[40]", "live.button[1]", 0 ],
+			"obj-63::obj-217" : [ "live.toggle[10]", "live.toggle", 0 ],
+			"obj-60::obj-99::obj-194" : [ "live.button[65]", "live.button[1]", 0 ],
+			"obj-27::obj-120" : [ "live.button[133]", "live.button[7]", 0 ],
+			"obj-68::obj-147::obj-194" : [ "live.button[35]", "live.button[1]", 0 ],
+			"obj-63::obj-49" : [ "live.toggle[12]", "live.toggle", 0 ],
+			"obj-60::obj-104::obj-194" : [ "live.button[68]", "live.button[1]", 0 ],
+			"obj-7::obj-120" : [ "live.button[131]", "live.button[7]", 0 ],
+			"obj-71::obj-160" : [ "live.text[7]", "FILTER", 0 ],
+			"obj-71::obj-187" : [ "live.numbox", "live.numbox", 0 ],
+			"obj-63::obj-104::obj-194" : [ "live.button[46]", "live.button[1]", 0 ],
+			"obj-63::obj-216" : [ "live.text[20]", "live.text[3]", 0 ],
+			"obj-60::obj-117::obj-193" : [ "live.button[72]", "live.button[1]", 0 ],
+			"obj-1::obj-47" : [ "live.button[108]", "live.button[7]", 0 ],
+			"obj-68::obj-217" : [ "live.toggle[6]", "live.toggle", 0 ],
+			"obj-58::obj-187" : [ "live.numbox[4]", "live.numbox", 0 ],
+			"obj-71::obj-274::obj-194" : [ "live.button[2]", "live.button[1]", 0 ],
+			"obj-68::obj-274::obj-193" : [ "live.button[22]", "live.button[1]", 0 ],
+			"obj-58::obj-274::obj-193" : [ "live.button[85]", "live.button[1]", 0 ],
+			"obj-1::obj-59" : [ "live.button[107]", "live.button[7]", 0 ],
+			"obj-12::obj-120" : [ "live.button[115]", "live.button[7]", 0 ],
+			"obj-71::obj-99::obj-194" : [ "live.button[4]", "live.button[1]", 0 ],
+			"obj-71::obj-143::obj-194" : [ "live.button[18]", "live.button[1]", 0 ],
+			"obj-63::obj-18" : [ "live.text[17]", "FILTER", 0 ],
+			"obj-71::obj-104::obj-193" : [ "live.button[5]", "live.button[1]", 0 ],
+			"obj-19::obj-52" : [ "live.toggle[62]", "live.toggle", 0 ],
+			"obj-68::obj-256" : [ "live.text[15]", "FILTER", 0 ],
+			"obj-60::obj-151::obj-193" : [ "live.button[74]", "live.button[1]", 0 ],
+			"obj-58::obj-29" : [ "live.toggle[21]", "live.toggle", 0 ],
+			"obj-71::obj-143::obj-193" : [ "live.button[17]", "live.button[1]", 0 ],
+			"obj-60::obj-187" : [ "live.numbox[3]", "live.numbox", 0 ],
+			"obj-58::obj-151::obj-194" : [ "live.button[94]", "live.button[1]", 0 ],
+			"obj-68::obj-274::obj-194" : [ "live.button[21]", "live.button[1]", 0 ],
+			"obj-63::obj-143::obj-193" : [ "live.button[58]", "live.button[1]", 0 ],
+			"obj-58::obj-149::obj-193" : [ "live.button[97]", "live.button[1]", 0 ],
+			"obj-71::obj-18" : [ "live.text[2]", "FILTER", 0 ],
+			"obj-68::obj-104::obj-193" : [ "live.button[25]", "live.button[1]", 0 ],
+			"obj-63::obj-117::obj-193" : [ "live.button[50]", "live.button[1]", 0 ],
+			"obj-1::obj-176" : [ "live.text[39]", "FILTER", 0 ],
+			"obj-120" : [ "live.button[151]", "live.button[7]", 0 ],
+			"obj-71::obj-264" : [ "live.toggle[4]", "live.toggle", 0 ],
+			"obj-68::obj-250" : [ "live.button[39]", "live.button[1]", 0 ],
+			"obj-63::obj-151::obj-194" : [ "live.button[53]", "live.button[1]", 0 ],
+			"obj-68::obj-149::obj-194" : [ "live.button[34]", "live.button[1]", 0 ],
+			"obj-60::obj-99::obj-193" : [ "live.button[66]", "live.button[1]", 0 ],
+			"obj-58::obj-251" : [ "live.button[103]", "live.button[1]", 0 ],
+			"obj-1::obj-11" : [ "live.button[106]", "live.button[7]", 0 ],
+			"obj-63::obj-274::obj-194" : [ "live.button[43]", "live.button[1]", 0 ],
+			"obj-63::obj-147::obj-193" : [ "live.button[57]", "live.button[1]", 0 ],
+			"obj-63::obj-29" : [ "live.toggle[11]", "live.toggle", 0 ],
+			"obj-58::obj-18" : [ "live.text[36]", "FILTER", 0 ],
+			"obj-63::obj-104::obj-193" : [ "live.button[47]", "live.button[1]", 0 ],
+			"obj-58::obj-274::obj-194" : [ "live.button[84]", "live.button[1]", 0 ],
+			"obj-7::obj-176" : [ "live.button[203]", "live.button[36]", 0 ],
+			"obj-68::obj-52" : [ "live.toggle[5]", "live.toggle", 0 ],
+			"obj-58::obj-99::obj-194" : [ "live.button[86]", "live.button[1]", 0 ],
+			"obj-1::obj-89" : [ "live.tab", "live.tab", 0 ],
+			"obj-1::obj-53" : [ "live.button[111]", "live.button[7]", 0 ],
+			"obj-63::obj-52" : [ "live.toggle[14]", "live.toggle", 0 ],
+			"obj-60::obj-52" : [ "live.toggle[17]", "live.toggle", 0 ],
+			"obj-12::obj-176" : [ "live.button[116]", "live.button[36]", 0 ],
+			"obj-68::obj-23" : [ "live.text[13]", "FILTER", 0 ],
+			"obj-60::obj-18" : [ "live.text[28]", "FILTER", 0 ],
+			"obj-60::obj-29" : [ "live.toggle[18]", "live.toggle", 0 ],
+			"obj-58::obj-250" : [ "live.button[102]", "live.button[1]", 0 ],
+			"obj-71::obj-99::obj-193" : [ "live.button[3]", "live.button[1]", 0 ],
+			"obj-71::obj-109::obj-193" : [ "live.button[8]", "live.button[1]", 0 ],
+			"obj-58::obj-104::obj-194" : [ "live.button[89]", "live.button[1]", 0 ],
+			"obj-58::obj-264" : [ "live.toggle[20]", "live.toggle", 0 ],
+			"obj-1::obj-103" : [ "live.text", "live.text", 0 ],
+			"obj-71::obj-149::obj-194" : [ "live.button[14]", "live.button[1]", 0 ],
+			"obj-63::obj-187" : [ "live.numbox[2]", "live.numbox", 0 ],
+			"obj-60::obj-143::obj-193" : [ "live.button[79]", "live.button[1]", 0 ],
+			"obj-71::obj-195" : [ "live.text[8]", "FILTER", 0 ],
+			"obj-63::obj-109::obj-193" : [ "live.button[49]", "live.button[1]", 0 ],
+			"obj-60::obj-250" : [ "live.button[81]", "live.button[1]", 0 ],
+			"obj-58::obj-49" : [ "live.toggle[22]", "live.toggle", 0 ],
+			"obj-71::obj-109::obj-194" : [ "live.button[7]", "live.button[1]", 0 ],
+			"obj-68::obj-143::obj-193" : [ "live.button[38]", "live.button[1]", 0 ],
+			"obj-63::obj-250" : [ "live.button[61]", "live.button[1]", 0 ],
+			"obj-68::obj-149::obj-193" : [ "live.button[33]", "live.button[1]", 0 ],
+			"obj-63::obj-109::obj-194" : [ "live.button[48]", "live.button[1]", 0 ],
+			"obj-13::obj-120" : [ "live.button[132]", "live.button[7]", 0 ],
+			"obj-71::obj-29" : [ "live.toggle", "live.toggle", 0 ],
+			"obj-68::obj-151::obj-193" : [ "live.button[31]", "live.button[1]", 0 ],
+			"obj-63::obj-149::obj-193" : [ "live.button[55]", "live.button[1]", 0 ],
+			"obj-60::obj-149::obj-194" : [ "live.button[76]", "live.button[1]", 0 ],
+			"obj-58::obj-117::obj-193" : [ "live.button[93]", "live.button[1]", 0 ],
+			"obj-58::obj-86" : [ "live.button[104]", "live.button", 0 ],
+			"obj-63::obj-99::obj-194" : [ "live.button[44]", "live.button[1]", 0 ],
+			"obj-60::obj-109::obj-193" : [ "live.button[69]", "live.button[1]", 0 ],
+			"obj-58::obj-216" : [ "live.text[30]", "live.text[3]", 0 ],
+			"obj-58::obj-256" : [ "live.text[35]", "FILTER", 0 ],
+			"obj-1::obj-180" : [ "live.text[40]", "FILTER", 0 ],
+			"obj-21::obj-176" : [ "live.button[139]", "live.button[36]", 0 ]
 		}
 ,
 		"dependency_cache" : [ 			{
@@ -21446,6 +21445,10 @@
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
+			}
+, 			{
+				"name" : "jit.!.mxo",
+				"type" : "iLaX"
 			}
  ]
 	}
